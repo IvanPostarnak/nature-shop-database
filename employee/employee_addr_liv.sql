@@ -21,12 +21,11 @@ CREATE TABLE employee_addr_liv
   CONSTRAINT chk_employee_addr_liv_street CHECK (street != ''),
   CONSTRAINT chk_employee_addr_liv_building CHECK (building != ''),
   CONSTRAINT chk_employee_addr_liv_appartment CHECK (appartment != ''),
-  CONSTRAINT chk_employee_addr_liv_floor CHECK (floor > 0),
   CONSTRAINT chk_employee_addr_liv_entrance CHECK (entrance != ''),
   CONSTRAINT chk_employee_addr_liv_postal_code CHECK (postal_code != ''),
   CONSTRAINT fk_employee_addr_liv_employee_id_employee_employee_id FOREIGN KEY (employee_id) REFERENCES employee(employee_id),
-  CONSTRAINT fk_emplyee_addr_liv_country_id_country_country_id FOREIGN KEY (country_id) REFERENCES country(country_id),
-  CONSTRAINT fk_emplyee_addr_liv_city_id_city_city_id FOREIGN KEY (city_id) REFERENCES city(city_id)
+  CONSTRAINT fk_employee_addr_liv_country_id_country_country_id FOREIGN KEY (country_id) REFERENCES country(country_id),
+  CONSTRAINT fk_employee_addr_liv_city_id_city_city_id FOREIGN KEY (city_id) REFERENCES city(city_id)
 );
 
 INSERT INTO employee_addr_liv(employee_id, country_id, city_id, street, building, appartment, floor, entrance, has_fence, postal_code)
