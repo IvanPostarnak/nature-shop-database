@@ -21,6 +21,9 @@ DATA TYPES (column naming)
 _date ~ date
 _ts ~ timestamp
 _tstz ~ timestamp with timezone
+_mod ~ modification OR modificator - who knows ? abstraction...
+_num ~ number
+_time
 ```
 ----
 CONSTRAINT's naming  
