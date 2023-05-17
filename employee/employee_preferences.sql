@@ -4,9 +4,9 @@ CREATE TABLE employee_preferences
 (
 	employee_preferences_id INTEGER GENERATED ALWAYS AS IDENTITY,
   employee_id INTEGER NOT NULL,
-  color_schema_id INTEGER NOT NULL DEFAULT 1,
-  language_id INTEGER NOT NULL DEFAULT 1,
-  currency_id INTEGER NOT NULL DEFAULT 1,
+  color_schema_id INTEGER,
+  language_id INTEGER,
+  currency_id INTEGER,
   
 	CONSTRAINT pk_employee_preferences_employee_preferences_id PRIMARY KEY (employee_preferences_id),
   CONSTRAINT unq_employee_preferences_employee_id UNIQUE (employee_id),
@@ -16,11 +16,11 @@ CREATE TABLE employee_preferences
   CONSTRAINT fk_employee_preferences_currency_id_currency_currency_id FOREIGN KEY (currency_id) REFERENCES currency(currency_id)
 );
 
-INSERT INTO employee_preferences(employee_id)
-     VALUES (1),
-            (2),
-            (3),
-            (4);
+INSERT INTO employee_preferences(employee_id, color_schema_id, language_id, currency_id)
+     VALUES (1, NULL, NULL, NULL),
+            (2, NULL, NULL, NULL),
+            (3, NULL, NULL, NULL),
+            (4, NULL, NULL, NULL);
 
 SELECT *
   FROM employee_preferences;

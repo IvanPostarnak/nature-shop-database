@@ -24,8 +24,8 @@ CREATE TABLE employee_addr_reg
   CONSTRAINT chk_employee_addr_reg_entrance CHECK (entrance != ''),
   CONSTRAINT chk_employee_addr_reg_postal_code CHECK (postal_code != ''),
   CONSTRAINT fk_employee_addr_reg_employee_id_employee_employee_id FOREIGN KEY (employee_id) REFERENCES employee(employee_id),
-  CONSTRAINT fk_employee_addr_liv_country_id_country_country_id FOREIGN KEY (country_id) REFERENCES country(country_id),
-  CONSTRAINT fk_employee_addr_liv_city_id_city_city_id FOREIGN KEY (city_id) REFERENCES city(city_id)
+  CONSTRAINT fk_employee_addr_reg_country_id_country_country_id FOREIGN KEY (country_id) REFERENCES country(country_id),
+  CONSTRAINT fk_employee_addr_reg_city_id_city_city_id FOREIGN KEY (city_id) REFERENCES city(city_id)
 );
 
 INSERT INTO employee_addr_reg(employee_id, country_id, city_id, street, building, appartment, floor, entrance, has_fence, postal_code)

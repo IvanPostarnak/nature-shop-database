@@ -4,8 +4,8 @@ CREATE TABLE shop_contacts
 (
 	shop_contacts_id INTEGER GENERATED ALWAYS AS IDENTITY,
   shop_id INTEGER NOT NULL,
-  phone TEXT NOT NULL,
-  email TEXT NOT NULL,
+  phone TEXT,
+  email TEXT,
   
 	CONSTRAINT pk_shop_contacts_shop_contacts_id PRIMARY KEY (shop_contacts_id),
   CONSTRAINT unq_shop_contacts_shop_id UNIQUE (shop_id),

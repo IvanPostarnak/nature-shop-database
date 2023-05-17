@@ -1,11 +1,14 @@
 I decided to write down some rules about present databsae
 ----
 GENERAL RULES are
-+ names of tables should remain singular (country - NEVER countries)
-+ _id primary keys fields should repeat name of table in whole (table_name -> table_name_id)
-+ if entity / table had a 'name' property than column whould be named 'name' without repeating name of the table itself
-+ all data that represents strings are written capitalized ('Plaster', not 'plaster')
++ names of tables must remain singular (country - NEVER countries)
++ _id primary keys fields must repeat name of table in whole (table_name -> table_name_id)
++ if entity / table had a 'name' property than column must be named 'name' without repeating name of the table itself (name - NOT product_name)
++ all data in cells that represents strings are written capitalized ('Plaster', not 'plaster')
 + all prices are meant to be written in dollars US
++ in _contacts table all columns DO NOT repeat contact word, so that contact_name, contact_phone and contact_email must be just name, phone and email
++ contact information must NOT have 'NOT NULL' constraint and must have 'UNIQUE' constraint
++ all foreign keys that describe entities (such as shop_id, customer_id etc) must have constraint 'UNIQUE'
 ----
 UNITS of MESUREMENT (column naming)    
 (decided to use them in names of columns, according to possible need of it in future)

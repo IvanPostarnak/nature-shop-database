@@ -13,6 +13,7 @@ CREATE TABLE employee_bio
   
 	CONSTRAINT pk_employee_bio_employee_bio_id PRIMARY KEY (employee_bio_id),
   CONSTRAINT unq_employee_bio_employee_id UNIQUE (employee_id),
+  CONSTRAINT chk_employee_bio_age CHECK (age > 18),
   CONSTRAINT fk_employee_bio_employee_id_employee_employee_id FOREIGN KEY (employee_id) REFERENCES employee(employee_id),
   CONSTRAINT fk_employee_bio_gender_id_gender_gender_id FOREIGN KEY (gender_id) REFERENCES gender(gender_id),
   CONSTRAINT fk_employee_bio_family_status_id_family_status_family_status_id FOREIGN KEY (family_status_id) REFERENCES family_status(family_status_id),

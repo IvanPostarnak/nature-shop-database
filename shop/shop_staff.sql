@@ -12,6 +12,7 @@ CREATE TABLE shop_staff
   staff_shift_current INTEGER,
   
 	CONSTRAINT pk_shop_staff_shop_staff_id PRIMARY KEY (shop_staff_id),
+  CONSTRAINT unq_shop_staff_shop_id UNIQUE (shop_id),
   CONSTRAINT chk_shop_staff_staff_total_min CHECK (staff_total_min >= 0),
   CONSTRAINT chk_shop_staff_staff_total_min_staff_total_max CHECK (staff_total_min <= staff_total_max),
   CONSTRAINT chk_shop_staff_staff_total_current CHECK (staff_total_current BETWEEN staff_total_min AND staff_total_max),

@@ -9,6 +9,7 @@ CREATE TABLE shop_security
   security_phone TEXT,
   
 	CONSTRAINT pk_shop_security_shop_security_id PRIMARY KEY (shop_security_id),
+  CONSTRAINT unq_shop_security_shop_id UNIQUE (shop_id),
   CONSTRAINT chk_shop_security_keys_num CHECK (keys_num > 0),
   CONSTRAINT fk_shop_security_shop_id_shop_shop_id FOREIGN KEY (shop_id) REFERENCES shop(shop_id)
 );
