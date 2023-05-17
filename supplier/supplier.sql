@@ -6,7 +6,8 @@ CREATE TABLE supplier
   name TEXT NOT NULL,
   company_id INTEGER NOT NULL,
   
-	CONSTRAINT pk_supplier_supplier_id PRIMARY KEY (supplier_id)
+	CONSTRAINT pk_supplier_supplier_id PRIMARY KEY (supplier_id),
+  CONSTRAINT unq_supplier_name UNIQUE (name)
 );
 
 INSERT INTO supplier(name, company_id)

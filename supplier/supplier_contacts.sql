@@ -10,6 +10,10 @@ CREATE TABLE supplier_contacts
   website TEXT,
   
 	CONSTRAINT pk_supplier_contacts_supplier_contacts_id PRIMARY KEY (supplier_contacts_id),
+  CONSTRAINT unq_supplier_contacts_supplier_id UNIQUE (supplier_id),
+  CONSTRAINT unq_supplier_contacts_contact_phone UNIQUE (contact_phone),
+  CONSTRAINT unq_supplier_contacts_contact_email UNIQUE (contact_email),
+  CONSTRAINT unq_supplier_contacts_website UNIQUE (website),
   CONSTRAINT fk_supplier_contacts_supplier_id_supplier_supplier_id FOREIGN KEY (supplier_id) REFERENCES supplier(supplier_id)
 );
 
