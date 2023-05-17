@@ -1,7 +1,7 @@
 I decided to write down some rules about present databsae
 ----
 GENERAL RULES are
-+ names of tables must remain singular (country - NEVER countries)
++ names of tables must remain singular (country - NEVER countries) EXCEPT such cases as contacts, params, statistics, preferences etc
 + _id primary keys fields must repeat name of table in whole (table_name -> table_name_id)
 + if entity / table had a 'name' property than column must be named 'name' without repeating name of the table itself (name - NOT product_name)
 + all data in cells that represents strings are written capitalized ('Plaster', not 'plaster')
@@ -9,6 +9,8 @@ GENERAL RULES are
 + in _contacts table all columns DO NOT repeat contact word, so that contact_name, contact_phone and contact_email must be just name, phone and email
 + contact information must NOT have 'NOT NULL' constraint and must have 'UNIQUE' constraint
 + all foreign keys that describe entities (such as shop_id, customer_id etc) must have constraint 'UNIQUE'
+----
+! I know, that following rules are breaking conventions of abstraction and encapsulation, but I'll need it to come back after a while (anyway it'll need refactoring)
 ----
 UNITS of MESUREMENT (column naming)    
 (decided to use them in names of columns, according to possible need of it in future)
