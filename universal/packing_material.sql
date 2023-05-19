@@ -15,7 +15,8 @@ CREATE TABLE packing_material
 
 INSERT INTO packing_material(name, description)
 VALUES ('Plastic', 'A synthetic material made from polymers that is versatile, lightweight, and commonly used for various applications'),
-       ('Glass', 'A solid, transparent material made from silica that is brittle, often used for containers, windows, and decorative items');
+       ('Glass', 'A solid, transparent material made from silica that is brittle, often used for containers, windows, and decorative items'),
+       ('No packing', 'Prodcuts, that don''t have any package');
 
 SELECT *
   FROM packing_material;

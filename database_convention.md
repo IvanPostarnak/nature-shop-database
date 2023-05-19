@@ -18,6 +18,7 @@ UNITS of MESUREMENT (column naming)
 _mil ~ millions
 _cm ~ centimeters
 _kg ~ kilograms
+_g ~ grams
 ```
 ----
 DATA TYPES (column naming)  
