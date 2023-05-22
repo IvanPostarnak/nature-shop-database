@@ -6,7 +6,8 @@ CREATE TABLE customer_preferences
   customer_id INTEGER NOT NULL,
   color_schema_id INTEGER,
   language_id INTEGER,
-  currency_id INTEGER,
+  currency_id INTEGER
+  data JSON DEFAULT '{}',
   
 	CONSTRAINT pk_customer_preferences_customer_preferences_id PRIMARY KEY (customer_preferences_id),
   CONSTRAINT unq_customer_preferences_customer_id UNIQUE (customer_id),
