@@ -1195,90 +1195,769 @@ Also, taking L-carnitine is recommended for viral hepatitis, urolithiasis, type 
 1 capsule contains: L-carnitine 295 mg (98% of the adequate intake level).
 Excipients: cellulose, magnesium stearate (rast.), silicon dioxide, gelatin.', '1-2 capsules a day with meals.', 'Individual intolerance to dietary supplement components. During pregnancy and lactation, it is necessary to consult a doctor before use.', 'Store in a dry place, protected from sunlight and inaccessible to children at a temperature not exceeding +30 ° C.'), -- 98
 
-            (99, ), -- 99
-            (100, ), -- 100
-            (101, ), -- 101
-            (102, ), -- 102
-            (103, ), -- 103
+            (99, 'It has a powerful antimicrobial effect
+It contains silver in the form of microscopic particles in a colloidal solution, which ensures maximum bioavailability of the active substance
+Contains 100 micrograms of silver per 5 mg of gel
+Non-toxic
+Does not contain alcohol
+Safe to use for children
+Cleanses and moisturizes the skin', 'Due to the high silver content, a very small amount of gel is required for surface treatment. The tube holds 85 g of product – this is enough for a long time even for use by the whole family. But at the same time, it is convenient to take such a tube with you on the road, even on a plane.
+The gel forms an invisible film on the surface of the skin, so that it has a long-lasting effect on the treated area.
+The gel has a very wide spectrum of action – it can be used for injuries and injuries of varying severity, and it can also clean the skin when it is not possible to use soap and water.
+Silver relieves the inflammatory process, reduces swelling and prevents the formation of scars.
+The gel is an effective cleansing, disinfecting agent. In its production, a special patented Aqua Sol technology is used, which involves the use of the smallest silver particles, thanks to which the maximum bioavailability of silver and its effective effect through the skin is achieved. These particles together with oxygen molecules form a compound of silver oxide (Ag4O4), in the structure of which silver is highly bioavailable. The gel is non-toxic, does not contain alcohol, and it can be used for children.', NULL, NULL, 'Gel "Silver Shield" is a universal remedy for all members of your family from the youngest to the older generation.
+What is used for:
+Open wounds, cuts, scratches, abrasions, including on the mucous membranes
+Suppuration
+Bedsore care
+Acne (blackheads)
+Burns
+Eczema
+Skin irritations
+With insect bites
+For cleaning and disinfection of the skin', NULL, NULL), -- 99
+            (100, 'Relieves muscle tension and pain in muscles and joints
+It provides nutritional support to the skin and subcutaneous tissue, improving its blood supply
+An indispensable tool for sports and household injuries, insect bites', 'Essential oils are a mixture of volatile, fragrant substances released from plants. A very important characteristic of essential oils is that they quickly penetrate through the skin and enter the bloodstream.
+Aromatherapy massage with the use of Tei-Fu Massage Lotion based on natural essential oils is a wonderful tool for relieving stress, nervous tension and improving well–being, relaxing muscles. The lotion contains: gaultheria leaf oil, menthol, camphor, eucalyptus leaf oil, sweet almond oil. The active ingredients penetrate deeply into the tissues, improving blood circulation and metabolism.
+Precautions: The lotion has a tingling effect. Avoid contact with eyes. Keep out of reach of children. For external use only!', NULL, 'Purified water, gaultheria leaf oil, menthol, camphor, eucalyptus leaf oil, cetearyl alcohol, sweet almond oil, stearic acid, glyceryl stearate / polythylene glycol-100 stearate, cetearyl alcohol / cetearet-20, butylene glycol, caprylic/ caprine triglyceride, preservatives: butylparaben, methylparaben, propylparaben, ethylparaben, phenoxyethanol, oil clove leaves, dimethicone, acrylates / With 10-30 alkyl acrylate crosspolymer, xanthan gum, squalane, tetranatrium EDTK, citric acid, allantoin, aloe vera, hydroxyethyl acrylate, polysorbate 6, sodium acryloyldimethyl, squalane, taurate copolymer.', 'It has a warming effect, used to improve the microcirculation of the skin. Apply two to three times a day.
+Indications for use:
+Myalgia and myasitis (muscle pain)
+Sciatica, exacerbation of osteochondrosis and diseases of small joints
+Sports and household injuries (bruises, sprains, dislocated joints, etc.)
+Post-traumatic complications: muscle spasms, scars, ankylosis (stiff joints)
+Headache (rub into the neck, temples)
+Toothache (rub into the projection area of the tooth)
+Insect bites and minor skin injuries (to the area of injury)', NULL, NULL), -- 100
+            (101, 'It has a strong antiseptic, antifungal and bactericidal effect
+It is used for cuts, burns and inflammatory skin diseases
+Helps with dry skin, rashes, insect bites and burns from plants', 'Since ancient times, Australian aborigines have used tea tree oil (Melaleuca alternifolia) for infection of the kidneys, genitourinary tract, for local anesthesia. It is a powerful disinfectant, bactericidal, fungicidal agent. Neutralizes poisons during insect bites, affects the scabies mite. It has a mild analgesic effect. It is indicated for fungal diseases, vaginitis, ear diseases, burns, cuts, abrasions, skin infections. With a cold, a good effect is achieved by inhalation with tea tree oil. The healing properties of this oil have been confirmed by numerous clinical studies around the world. During World War II, tea tree oil was included in the first aid kit of army and Navy personnel in tropical countries.', NULL, '100% Australian tea tree oil (Melaleuca alternifolia)', 'For external use only! In case of skin damage, a small amount of oil can be applied to diseased, burned, chapped, etc. skin areas. It can be diluted in any pre-pasteurized vegetable oil (in a ratio of 1:5 - 1:10). If you have a cold, add 2-3 drops for inhalation.
+Attention! You can not use non-diluted oil on open wounds, burn wounds (after opening blisters) and mucous membranes. Keep out of reach of children. Avoid contact with eyes.', NULL, NULL), -- 101
+            (102, 'It has a wound-healing effect and improves the condition of the gums
+It is recommended for the prevention and treatment of periodontal disease
+It has a minty smell and a soft refreshing taste
+It does not contain artificial colors, flavors, coarse abrasives, fluorides
+Contains extracts of medicinal plant components
+Very little paste is required for brushing teeth, it is economical', NULL, 'The composition of Sunshine Bright toothpaste with green tea leaf extract includes a whole set of herbal components that have a positive effect on the oral cavity:
+Silicon dioxide powder is a sorbent that perfectly removes stains from teeth.
+Sodium bicarbonate (baking soda) – neutralizes bacterial acids that destroy tooth enamel.
+Calcium carbonate is a natural chalk of a high degree of purification, removes stains and food residues.
+Stevia (Stevia rebaudiana) – contains steviosides, which not only have a sweet taste, but are also able to restrain the growth and reproduction of bacteria and other pathogenic microorganisms, saving our teeth from caries, and gums from periodontal disease.
+Carrageenan (Chondrus crispus) is a polysaccharide of red algae, has sorption ability.
+Corn oil (Zea mays) – has a softening effect.
+Astragalus extract (Astragalus sinicus) – provides a protective and anti-inflammatory effect for the oral mucosa.
+Myrrh resin (Commiphora myrrha) is a natural antiseptic, used in dentistry in the treatment of stomatitis and gingivitis.
+Canadian yellowcorn extract (Hydrastis canadensis) is a great antiseptic, stops bleeding, helps with periodontal disease.
+Extract of Icelandic moss (Cetraria islandica) – soothes inflamed membranes of the oral cavity, also has an antibacterial effect.
+Green tea leaf extract (Camelia sinesis) – contains bioflavonoids and tannins that have a beneficial effect on the mucous membrane.
+Black elderberry fruit extract is rich in vitamins, bioelements and tannins.
+Aloe vera – has a wound-healing and bactericidal effect.', 'Sorbitol, silicon dioxide, purified water, glycerin, sodium bicarbonate, calcium carbonate, sodium lauroylsarcosinate, natural mint flavor, stevia (Stevia rebaudiana), sodium hydroxide solution, cellulose resin, carrageenan (Chondrus crispus), unsaponifiable corn oil (Zea mays), Astragalus extract (Astragalus sinicus), myrrh resin (Commiphora myrrha), Canadian yellowcorn extract (Hydrastis canadensis), Icelandic moss extract (Cetraria islandica), green tea leaf extract (Camelia sinesis), elderberry extract (Sambucus nigra), aloe vera.', 'Using a toothbrush, apply a small amount of paste (the size of a pea) to the teeth and clean all their surfaces with a brush movement from the gums. Rinse your mouth with warm water.
+The unique composition of medicinal plants does not irritate the mucous membrane. The longer the application of the paste on the gums, the higher its effectiveness, so do not rush to rinse your mouth.', NULL, NULL), -- 102
+            (103, 'Protects sensitive lip skin from UV rays
+Nourishes and softens the skin
+Vitamins A, B5, C and E saturate the skin with antioxidants', 'The balm protects sensitive lip skin from UV rays. Vitamins A, B5, C and E saturate the skin with antioxidants, prevent the aging process, smooth the delicate skin of the lips and make it more elastic. The ingredients included in the balm provide the skin with useful nutrients.', NULL, 'Beeswax, avobenzone, caprylic/caprine triglyceride, glycine of soy sterols, linoleic acid, natural vanilla flavor, ozokerite, PPG-15/SMDI copolymer, retinyl palmitate (vitamin A), castor oil, Jojoba seed oil, squalane, stevia, trihydroxystearin, octinoxate, lauryl pyroglutamic acid, pantenyl triacetate (vitamin B5), phospholipids, tetrahexyldecyl ascorbate (vitamin C), tocopheryl acetate (vitamin E).', 'To maintain natural hydration, apply to the lips as needed.
+Attention: for external use only.', NULL, NULL), -- 103
 
-            (104, ), -- 104
-            (105, ), -- 105
-            (106, ), -- 106
-            (107, ), -- 107
-            (108, ), -- 108
-            (109, ), -- 109
-            (110, ), -- 110
-            (111, ), -- 111
-            (112, ), -- 112
-            (113, ), -- 113
-            (114, ), -- 114
-            (115, ), -- 115
-            (116, ), -- 116
-            (117, ), -- 117
-            (118, ), -- 118
-            (119, ), -- 119
-            (120, ), -- 120
-            (121, ), -- 121
+            (104, 'moisturizes
+tones
+cleanses
+mattifies
+soothes', 'A soft tonic gently cleanses the skin from dirt, soothes and refreshes it. Removes makeup residue. The formula fights the formation of sebum and instantly gives a matte finish. Protects against aggressive environmental factors and enhances natural protection against oxidative stress, increasing the ability of the skin to detoxify. You have never felt such freshness, hydration and purity as after using this tonic.
+It does not contain parabens, paraffins, formaldehyde, silicones.
+Liquid. Fresh. Not sticky. Leaves a velvety feeling.', 'Rhodophyte red algae extract — reduces the amount of oxidized squalene on the skin surface, enhancing antioxidant protection. Reduces the amount of sebum and increases the production of lipids by skin cells. Protects the skin from contamination, restoring its barrier functions.
+Plankton extract is an exopolysaccharide produced by marine plankton. It is able to absorb and retain a large amount of sebum, providing a matte effect within 1 hour after application. It is important that the active ingredient does not dry the skin.
+Aloe Vera gel — has soothing, moisturizing and antioxidant properties.
+Witch hazel hydrolate — has cleansing properties, tones the skin, soothes, moisturizes.
+Vegetable glycerin — forms a protective moist film on the surface of the epidermis, saturates the skin and prevents moisture loss. Returns elasticity, softness and smoothness.', 'Water, glycerin, aloe Barbadian leaf juice, Jojoba wax esters PEG-120, phenoxyethanol, PPG-26-butet-26, PEG-40 hydrogenated castor oil, caprylyl glycol, ethylhexylglycerin, hexylene glycol, fragrance, witch hazel leaf juice, bicarbonate EDTA, lactic acid, butylene glycol, sodium hydroxide, extract plankton, phenethyl alcohol, potassium sorbate, sodium benzoate, citric acid hydrolyzed extract of red algae.', 'Moisten a clean cotton pad and apply the tonic to the entire face, avoiding the eye area. The tonic will help gently remove makeup residue.
+The result: the skin shines, the pores are cleansed, the complexion is healthy, redness and irritation are removed. Now you can apply the cream.', NULL, NULL), -- 104
+            (105, 'protection from photoaging
+anti-aging care
+prevention of sagging of the frame
+tightens the oval of the face
+brightens
+moisturizes
+tones
+protection from pollution', 'A powerful cream based on advanced anti-aging components is able to saturate even the deepest layers of the epidermis with moisture. With regular use, it brightens the skin of the face, moisturizes and restores, thanks to active ingredients and a peptide complex that controls sagging skin. Enriched with glycerin and trehalose for intensive hydration, stabilized vitamin C, which makes the skin more dense and homogeneous. The formula is also based on the innovative complex "gravity control", which fights sagging skin and improves resistance to gravity, and the active component of pink pepper for daily detoxification.
+Advantages: it does not contain parabens, paraffins, formaldehyde, dyes, silicones, ethyl alcohol.
+Soft. Silk. Quickly absorbed. Easy to apply.', 'Sunscreen filters — day protection from UV rays, slow down photoaging.
+A complex of peptides is a complex of peptides. Fights sagging skin and improves its resistance to gravity. It stimulates the synthesis of elastin, supports the effectiveness of the architecture of elastic fibers and provides a significant lifting effect.
+Peruvian Pink Pepper extract is a natural bio—functional ingredient that is obtained from Peruvian pink pepper (Schinusmolle). It is rich in powerful bioavailable polyphenols quercitin and michelianin. Restores barrier functions and helps to reduce skin permeability. It has a rejuvenating effect, reducing wrinkles and giving the skin freshness. It has a cleansing effect: reduces sebum production, reduces the appearance of pores, moisturizes.
+Shea butter — softens, moisturizes, restores the barrier functions of the skin. Fights wrinkles, improves skin elasticity and turgor. It is rich in vitamin E — a well-known antioxidant, the vitamin of youth.
+Pomegranate seed oil is a favorite ingredient of aging skin. It nourishes, moisturizes, and has antioxidant properties.
+Cherry seed oil is a real elixir for age—related skin. An antioxidant. Protection against photoaging. Moisturizes. Calms me down.
+Stabilized vitamin C — promotes the production of collagen. Protects DNA from exogenous stress. Reduces melanogenesis by smoothing and brightening the skin.
+Trehalose is a natural moisturizing component with high hygroscopicity. Maintains an optimal degree of epidermal moisture.
+Vegetable glycerin — forms a protective moist film on the surface of the epidermis, saturates the skin and prevents moisture loss. Returns elasticity, softness and smoothness.', 'Water, Ethylhexyl methoxycinnamate, glycerin, dicaprilyl carbonate, Butylene glycol, Caprylic/caprine triglyceride, Dicaprilyl ether, Cetyl alcohol, glyceryl stearate, butyl methoxybenzoylmethane, Octocrylene, propanediol, Carite oil, Polymethyl methacrylate, Pomegranate seed oil, Benzyl alcohol, PEG-75 stearate, Sodium polyacrylate, trehalose, cherry seed oil, white wax, stearet-20, cetet-20, ethylhexylglycerin, sorbitan laurate, ethyl ascorbic acid, disodium edta, lactic acid, hydroxyethyl cellulose, sodium hydroxide, cetyl ether acetyl dipeptide-1, BHT, extract of Peruvian pepper, tocopherol.', 'Apply to cleansed facial skin in the morning or afternoon with light patting movements along massage lines.
+The result: velvety, taut, saturated with moisture skin, reliably protected from the harmful effects of sunlight. Significant reduction of wrinkles and strengthening of the oval of the face.', NULL, NULL), -- 105
+            (106, 'moisturizing
+anti-aging care
+anti-wrinkle
+tightening and strengthening of the skeleton
+antioxidant properties
+brightens and seals the skin', 'A rich, soft night cream created specifically to take care of the skin during sleep, when cells are best restored. Purposefully fights wrinkles, making them visually less noticeable due to the fact that it seals and polishes them. Instantly affects dull and tired skin. Contains ingredients with high anti-aging activity that restore skin tone and strengthen tissues. Waking up every morning, you will be pleasantly surprised: the skin is rested, a visible lifting effect that will last for many hours.
+It does not contain parabens, paraffins, formaldehyde, dyes, silicones, ethyl alcohol.
+Deep. Bushy. Not fat. Easy to apply.', 'Hyaluronic acid — due to its ability to bind and retain water, it acts as a direct humidifier, bringing moisture into the stratum corneum, and as an indirect humidifier, forming a film that prevents evaporation. The skin looks hydrated and retains moisture for a long time.
+Shea butter and sunflower seed oil — mature skin loves ingredients rich in vitamins E, D3, A, F and K. Oils promote cell regeneration, are rich in polyunsaturated fats. Suitable for dry skin, perfectly moisturize.
+Vitamin E is a vitamin of youth, a powerful antioxidant. Smoothes, soothes, keeps the skin hydrated.
+Barley seed extract is rich in polyphenol derivatives and has antioxidant properties. Anti-aging component, prevents the appearance of wrinkles. Improves microcirculation, nourishes the skin.
+Vegetable glycerin — forms a protective moist film on the surface of the epidermis, saturates the skin and prevents moisture loss. Returns elasticity, softness and smoothness.', 'Water, isonyl isononanoate, cetearyl alcohol, octyldodecyl myristate, cetyl alcohol, Shea butter, glycerin, sunflower seed oil, Cetearyl glucoside, ammonium acryloyldimethyltaurate/VP copolymer, Phenoxyethanol, propylene glycol, Fragrance, Propanediol, xanthan gum, decylene glycol, Tocopheryl acetate, seed extract common barley, isopropyl myristate, sodium hyaluronate.', 'Apply to the previously cleansed skin of the face and neck in the evening before going to bed with light movements along massage lines.
+The result: the contour of the face is restored, wrinkles are smoothed, the skin becomes elastic, soft, the complexion is healthy.', NULL, NULL), -- 106
+            (107, 'anti-aging protection
+anti-aging care
+anti-wrinkle
+lightening effect
+fights dark circles and bags under the eyes
+moisturizes', 'Eye cream works in several ways: prevents moisture loss, restores and helps maintain a healthy balance of the delicate skin around the eyes, protects against the harmful effects of ultraviolet rays and environmental pollutants, stimulates collagen production, reducing facial and deep wrinkles, and also fights swelling and dark circles. It is based on a biotechnological extract of marine microorganisms, which provides complete care for the area around the eyes. The key to your beautiful appearance is your look. Xylitol, one of the innovative supplements of the formula, helps to lighten the area of the eye area, which visually refreshes the face.
+It does not contain parabens, paraffins, formaldehyde, dyes, silicones, ethyl alcohol.
+Light and silky. Refreshes and absorbs quickly.', 'Xylitol — "wood sugar". Moisturizes and whitens, prevents dryness.
+Sunscreen filters — day protection of the skin, prevent photoaging.
+E. crustaceum extract — (crustacean) is rich in bioavailable polyphenols. Provides complete care for the eye area. Increases the synthesis of collagen and elastin. Reduces the formation of glycation end products, providing the skin with a youthful appearance. Relieves puffiness. Combats traces of fatigue, improving microcirculation and strengthening the intercellular matrix.
+Lotus extract is a symbol of beauty of Oriental women. Soothes and refreshes the skin, has a whitening effect.
+Rice starch is suitable for sensitive skin, gives the skin a matte and even color.', 'Water, ethylhexyl methoxycinnamate, butylene glycol, butyl methoxydibenzoylmethane, octocrylene, sodium polyacrylate, hexyldecanol, rice starch, hexyldecillaurate, polymethyl methacrylate, benzyl alcohol, glyceryl stearate, polyglyceryl-3 esters of candelilla/jojoba/rice bran, carrageenan powder, cetearet-12 , xylitol, cetearyl alcohol, caprylyl glycol, potassium cetyl phosphate, sodium stearoyl lactylate, fragrance, sodium hydroxide, ethylhexylglycerin, disodium EDTA, BHT, plankton extract, tocopherol, lactic acid, sodium benzoate, lotus flower extract, potassium sorbate, maltodextrin.', 'Apply along the contour of the eyes, including the upper eyelid with soft stroking circular movements. For daily use in the morning and evening.
+The result: a radiant look, smooth, moisturized skin, reduction of wrinkles.', NULL, NULL), -- 107
+            (108, 'long-term moisturizing
+universal care and age prevention
+sun protection
+refreshes
+restores
+brightens', 'The light, non-greasy texture leaves the skin hydrated for a long time. The cream contains SPF15 filters, which will help protect the skin from photoaging and oxidative stress. The cream is enriched with the active complex Mega Moisturizer Active based on amino acids (proline, alanine, serine) and Pseudoalteromonas Ferment extract, which minimizes the evaporation of water from deeper layers of the epidermis and regenerates the skin. Provides palpable hydration for 48 hours and excellent universal care. The active ingredient obtained from pink pepper acts as a cleansing component.
+It does not contain parabens, paraffins, formaldehyde, dyes, silicones, ethyl alcohol.
+Luxurious creamy texture. It is easy to apply and quickly absorbed, leaving no greasy shine.', 'Hyaluronic acid — promotes the formation of new cells, effectively moisturizes and restores skin tone. Due to its excellent ability to bind and retain water, it acts as an excellent moisturizing component: it delivers water to the stratum corneum, forms a film that prevents evaporation. The skin looks hydrated and stays that way for a long time.
+Sunscreen filters — day protection, prevent photoaging.
+Illipe oil — has excellent nutritional properties. Rich in fatty acids. Improves skin elasticity.
+Rice starch is suitable for sensitive skin, gives the skin a matte and even color.
+Mega Moisturizer Active — it includes 2 innovative complexes of directional action. The complex based on the amino acids proline, alanine, serine and Pseudoalteromonas bacterium extract has an instant and long-lasting moisturizing effect. And the IQ-hydration complex forms a "smart" double fat layer on the skin surface, enhancing natural barrier properties, providing up to 48 hours of noticeable hydration and adapting the skin to environmental conditions.
+Peruvian Pink Pepper extract is a natural bio—functional ingredient that is obtained from Peruvian pink pepper (Schinus molle). It is rich in powerful bioavailable polyphenols quercitin and michelianin. Restores barrier functions and helps to reduce skin permeability. It has a rejuvenating effect, reducing wrinkles and giving the skin freshness. It has a cleansing effect: reduces sebum production, reduces the appearance of pores, moisturizes.', 'Water, ethylhexyl methoxycinnamate, butyl methoxydibenzoylmethane, octocrylene, glycerin, ilip seed oil, benzyl alcohol, cetyl alcohol, potassium cetyl phosphate, cetyl stearate, carbomer, cetearyl alcohol, cetearet-12, rice starch, isopentyldiol, polymethyl methacrylate, stearet-2, propanediol, caprylyl glycol, isostearyl isostearate, ethylhexylglycerin, fragrance, sodium hydroxide, Pseudoalteromonas bacterium enzyme extract, xanthan gum, disodium EDTA, limonene, linalool, hexyl cinnamal, sodium hyaluronate, stearic acid, BHT, proline, alanine, serine, sodium phosphate, citronellol, geraniol, citral, Peruvian pepper extract, tocopherol, citric acid.', 'Apply to cleansed face skin. Suitable for daily use in the morning and evening.
+The result: smooth, elastic, well-hydrated and radiant with health skin. Surprisingly long and lasting hydration effect.', NULL, NULL), -- 108
+            (109, 'anti-aging protection
+anti-aging care
+combats wrinkles
+moisturizes
+dark circles', 'Multifunctional cream for delicate skin around the eyes based on real "gifts of the sea" not only provides round-the-clock hydration, but also fights signs of aging. It provides prevention of the first wrinkles, fights loss of elasticity, tightens the skin, helps to eliminate puffiness and dark circles under the eyes and prevents moisture loss. Light, fresh texture, quickly absorbed. It is based on a biotechnological extract of marine microorganisms, which provides complete care for the area around the eyes.
+It does not contain parabens, paraffins, formaldehyde, dyes, silicones, ethyl alcohol.
+Light and silky. Visually refreshing and quickly absorbed.', 'Xylitol — "wood sugar". Moisturizes and whitens, prevents dryness.
+Sunscreen filters — day protection, prevent photoaging.
+E. crustaceum extract — (crustacean) is rich in bioavailable polyphenols. Provides complete care for the eye area. Increases the synthesis of collagen and elastin. Reduces the formation of glycation end products, providing the skin with a youthful appearance. Relieves puffiness. Combats traces of fatigue, improving microcirculation and strengthening the intercellular matrix.
+Wakame extract is an extract of algae. Enriched with polysaccharides and vitamins. It has moisturizing, soothing and conditioning properties.', 'Water, ethylhexyl methoxycinnamate, butylene glycol, butyl methoxydibenzoylmethane, octocrylene, sodium polyacrylate, hexyldecyl laurate, hexyldecanol, polymethyl methacrylate, benzyl alcohol, glyceryl stearate, polyglyceryl-3 esters of candelilla/jojoba/rice bran, xylitol, cetearet-12, red powder algae, cetearyl alcohol, caprylyl glycol, potassium cetyl phosphate, sodium stearoyl lactylate, fragrance, sodium hydroxide, ethylhexylglycerin, glycerin, disodium EDTA, limonene, linalool, hexyl cinnamal, BHT, plankton extract, citronellol, geraniol, citral, undaria pinnata extract, tocopherol, sodium benzoate, potassium sorbate.', 'Apply along the contour of the eyes, including the upper eyelid with soft stroking circular movements. For daily use in the morning and evening.
+Result:. a radiant look without bags and dark circles, moisturized smooth skin.', NULL, NULL), -- 109
+            (110, 'instant visual effect
+moisturizes and makes the skin radiant
+restores
+brightens
+antioxidant and anti-aging protection
+fights traces of fatigue', 'The Cinderella Effect mask will instantly breathe vitality into the skin and make it shine! Signs of aging are "erased", and the face looks rested. The complexion regains its radiance. The mask is based on the extract of the leaves of Gaberlea Rhodope, which ensures the uniformity of the skin. The composition includes squalane of vegetable origin, known for its emollient properties, it is especially suitable for sensitive and dry skin. The mask is an excellent source of energy for a radical fight against dullness and dehydration will give the skin a real pleasure.
+Advantages: it does not contain parabens, paraffins, formaldehyde, dyes, silicones, ethyl alcohol.
+Soft and delicate, like sorbet. Rich. Silk.', 'Shea butter is an emollient. Moisturizes, regenerates the skin barrier. Suitable for fighting wrinkles. Improves skin elasticity. It is rich in the "vitamin of youth" - vitamin E.
+Squalane is a "skin protector", regenerates the lipid film on the skin surface, actively moisturizes. Rejuvenating oil, oil without oil, vitamin oxygen – all this is said about squalane.
+Rice oil is suitable for dry and mature skin. Moisturizes, deeply nourishes, whitens, smoothes.
+Pomegranate seed oil is an ingredient for mature skin. It has antioxidant properties, nourishes and moisturizes.
+Rice starch is suitable for sensitive skin. It has nourishing and whitening effects.
+The extract of the leaves of Gaberlea Rhodope is rich in antioxidants. Stimulates the production of collagen and elastin. Protects skin proteins from oxidation. Brightens and tones the skin, gives it radiance.
+Vegetable glycerin — forms a protective moist film on the surface of the epidermis, saturates the skin and prevents moisture loss. Returns elasticity, softness and smoothness.', 'Water, carite oil, isopentyldiol, glycerin, benzyl alcohol, Hydroxyethyl acrylate/Sodium acryloyldimethyl taurate copolymer, Squalane, PEG-100 stearate, Glyceryl stearate, Rice starch, Pomegranate seed oil, rice bran oil, caprylyl glycol, ethylhexylglycerin, fragrance, polysorbate 60, lactic acid, sorbitan isostearate, sodium hydroxide, extract of leaves of haberlea rhodope, dehydracetic acid, tocopherol.', 'Apply to the face and neck. Leave on for 10-15 minutes until completely absorbed. If necessary, remove the residue with a dry cloth or towel. Do not rinse. Apply 1-2 times a week instead of a day cream or before it (the skin itself will tell you if it needs additional hydration) in the morning when you want to look great.
+The result: radiant health, transformed, smooth, elastic skin. Instant effect.', NULL, NULL), -- 110
+            (111, 'for normal and oily hair
+it preserves the pH balance of the scalp
+cleanses
+fights dandruff
+conditions', 'A mild formula for daily use. Suitable for men and women. Normalizes the balance of the scalp. Gives shine and a healthy look to dull hair, making it soft.', 'Zinc Gluconate — gently narrows pores and regulates sebum production. It has a powerful anti-aging effect, renewing the collagen matrix. Zinc has immunomodulatory, antiseptic properties, protects the structure of the hair and makes it soft. It is a cofactor of enzymes involved in the synthesis of nucleic acids and protein.
+Arginine is an amino acid that stimulates the growth of capillaries.
+Panthenol is a precursor of pantothenic acid (vitamin B5). Due to its ability to retain moisture, panthenol has a beneficial effect on damaged and dry hair.
+Vitamin E is an antioxidant. Increases oxygen absorption, improves blood circulation in the scalp. Promotes hair growth. Prevents loss of color and shine. Supports overall hair health.
+Polyquaternium is a 7—cationic polymer. Conditioner (improves hair combing), gives hair softness, silkiness, shine. Suppresses the ability of the hair to absorb moisture, so they hold the shape more easily.', 'Water, Sodium laureth sulfate, cocamidopropyl betaine, Sodium chloride, decyl glucoside, sodium benzoate, fragrance, phenoxyethanol, lactic acid, zinc gluconate, ethylhexylglycerin, disodium EDTA, PEG-150 pentaerythryl tetrastearate, Guar hydroxypropyltrimonium chloride, polysorbate 20, Tocopheryl acetate, arginine, linalool, polyquaternium-7, panthenol, limonene, PEG-6 caprylic/caprine glycerides, citric acid.
+Does not contain: mineral oils, parabens, formaldehyde, denatured alcohol.', 'Apply a small amount of shampoo with gentle massaging movements to the scalp and hair. Rinse thoroughly with warm water.', NULL, NULL), -- 111
+            (112, 'for normal and oily hair
+it preserves the pH balance of the scalp
+fights greasiness
+gives energy
+and gives smoothness', 'A mild formula for daily use. Suitable for men and women. Gives shine and a healthy look to dull hair, making it soft. To achieve maximum effect, use together with shampoo from the same series.', 'Hydrolyzed keratin is a protein composed of amino acids, vitamins and trace elements. Cellular bridges are built from it, which provide strength to the hair. Aggressive hair dyes, styling tongs and other stressful effects lead to a decrease in the content of keratin and the destruction of its structure. Hydrolyzed keratin is similar to natural keratin, replaces it well, forms a protective film. It is especially effective in the care of damaged hair.
+Glycerin — maintains hydration for a long time, prevents water evaporation.
+Vitamin E is an antioxidant. Increases oxygen absorption, improves blood circulation in the scalp. Promotes hair growth. Prevents loss of color and shine. Supports overall hair health.
+Zinc Gluconate — gently narrows pores and regulates sebum production. It has a powerful anti-aging effect, renewing the collagen matrix. Zinc has immunomodulatory, antiseptic properties, protects the structure of the hair and makes it soft. It is a cofactor of enzymes involved in the synthesis of nucleic acids and protein.
+Panthenol is a precursor of pantothenic acid (vitamin B5). Due to its ability to retain moisture, panthenol has a beneficial effect on damaged and dry hair.
+Amodimethicone is silicone. Creates a film on the surface of the hair, protecting it from contamination and aggressive environmental influences. Gives hair shine and a healthy appearance, provides thermal protection.
+Polyquaternium is a 7—cationic polymer. Conditioner (improves hair combing), gives hair softness, silkiness, shine. Suppresses the ability of the hair to absorb moisture, so they hold the shape more easily.', 'Water, cetearyl alcohol, glycerin, cetriltrimethylammonium chloride, phenoxyethanol, fragrance, propylene glycol, amodimethicone, decylene glycol, zinc gluconate, lactic acid, tocopheryl acetate, linalool, polyquaternium-7, panthenol, limonene, hydrolyzed keratin, tridecet-10, sodium benzoate, citric acid, potassium sorbate.
+Does not contain: mineral oils, parabens, formaldehyde, denatured alcohol.', 'Apply to wet hair with massage movements along the entire length, starting from the tips. Leave on for 2-3 minutes, rinse thoroughly with water. As a care and prevention, 1 time a week can be used as a mask. Apply to wet hair from the roots. Leave for 3 minutes. Rinse thoroughly.', NULL, NULL), -- 112
+            (113, 'for normal and damaged hair
+it gently cleanses
+restores density and strength to the hair
+gives radiance and a well-groomed appearance', 'Radiant, soft hair from the first application. Suitable for men and women. A thick, rich shampoo with an exclusive complex, keratin and panthenol. It has moisturizing and firming effects, gives the hair a radiant and well-groomed appearance.', 'Panthenol is a precursor of pantothenic acid (vitamin B5). Due to its ability to retain moisture, panthenol has a beneficial effect on damaged and dry hair.
+Vegetable keratin is approved according to COSMOS European standard of natural and organic cosmetics. It consists of peptides with a low molecular weight, derived from soy proteins and capable of penetrating deep into the hair. Helps to restore the damaged surface of the hair and its structure, returning them to a healthy appearance, strength.
+Amaranth leaf extract is rich in antioxidants. Helps to repair the damage caused to the hair during the oxidative process, restores the natural shine, softness, moisture level, provides the hair with a healthy appearance.
+Illuminating Active is a moisturizing and regenerating substance that gives radiance to any type of hair. Biotechnological compound of natural sugars obtained from wood and brown algae. Restores the cuticle of damaged hair, returning it to its natural radiance, softness and hydration. The hair regains its healthy appearance. Visible result after the first application.
+Cationic conditioning particles are positively charged polymer particles similar in structure to hair cells. They have a pronounced restoring effect on the most damaged areas.', 'Water, Sodium laureth sulfate, cocamidopropyl betaine, sodium chloride, fragrance, Decyl glucoside, sodium benzoate, phenoxyethanol, Xylityl glucoside, sodium methyl Cocoyl taurate, PEG-80 hydrogenated glyceryl palmate, anhydroxylitol, maltitol, lactic acid, glycol distearate, Ethylhexylglycerin, Styrene/acrylate copolymer, Xylitol , lauret-4, polysorbate 20, guar hydroxypropyltrimonium chloride, benzophenone-4, polyquaternium-7, panthenol, hydrolyzed vegetable protein, propanediol, glycerin, grooved pelvetia extract, citric acid, sorrowful amaranth leaf extract, CI 17200.
+Does not contain: mineral oils, parabens, formaldehyde, denatured alcohol.', 'Apply a small amount of shampoo with gentle massaging movements to the scalp and hair. Rinse thoroughly with warm water.', NULL, NULL), -- 113
+            (114, 'for normal and damaged hair
+it seals
+nourishes
+moisturizes
+restores natural shine
+gives smoothness', 'Suitable for daily use, for men and women. Translucent cream gel with a light texture and a delicate fruity-floral aroma. Seals the hair shaft, restores its surface, making the hair soft, pleasantly silky.', 'Cationic conditioning particles are positively charged polymer particles similar in structure to hair cells. They have a pronounced restoring effect on the most damaged areas.
+Panthenol is a precursor of pantothenic acid (vitamin B5). Due to its ability to retain moisture, panthenol has a beneficial effect on damaged and dry hair
+Amaranth leaf extract is rich in antioxidants. Helps to repair the damage caused to the hair during the oxidative process, restores the natural shine, softness, moisture level, provides the hair with a healthy appearance.
+Illuminating Active is a moisturizing and regenerating substance that gives radiance to any type of hair. Biotechnological compound of natural sugars obtained from wood and brown algae. Restores the cuticle of damaged hair, returning it to its natural radiance, softness and hydration. The hair regains its healthy appearance. Visible result after the first application.
+Coconut oil — has a structure similar to hair proteins. Penetrates into the hair shaft. Nourishes, moisturizes, softens.', 'Water, cetearyl alcohol, hydroxypropyl methylcellulose, stearamidoprpyl dimethylamine, coconut oil, phenoxyethanol, begentrimonium chloride, glycerin, fragrance, lactic acid, xylityl glucoside, dipropylene glycol, anhydroxylitol, caprylyl glycol, maltitol, panthenol, xyditol, hydrolyzed vegetable protein, ethidronic acid, propanediol, sodium benzoate, ethylhexylglycerin, grooved pelvetium extract, amaranth sad leaf extract, C117200, citric acid.
+Does not contain: mineral oils, parabens, formaldehyde, denatured alcohol.', 'Apply to wet hair with massage movements along the entire length, starting from the tips. Leave on for 2-3 minutes, rinse thoroughly with water.', NULL, NULL), -- 114
+            (115, 'aromatherapy for relaxation
+gentle cleansing', 'Taking a shower with this gel every day, you gently cleanse the skin, leaving on it a charming aroma of sensual fragrance, sweet with a light citrus note. Enjoy this ritual and keep the scent of magnolia on your skin.', 'Magnolia extract — obtained from flowers and buds, reduces puffiness and has a relaxing effect. It is effectively used in the care of sensitive skin.
+Glycerin — forms a moist film on the surface of the epidermis. Restores elasticity, softness and smoothness to the skin.
+Cocamidopropyl betaine is a mixture of surfactants with a low irritation index. Reduces the irritating effect of SLES. Suitable for sensitive skin.', 'Water, Sodium laureth sulfate, sodium chloride, cocamidopropite betaine, fragrance, sodium benzotriazolyl butylphenol sulfonate, Citric acid, disodium EDTA, Geraniol, butylphenyl methylpropional, Citronellol, magnesium nitrate, glycerin, butylene glycol, methyl chloroisothiazolinone, Methylisothiazolinone, extract of magnolia buds/flowers biondi , magnesium chloride, C117200, C119140.
+Do not contain: SLS, denatured alcohol, parabens, formaldehyde.', 'Apply to wet skin, massage, rinse with water.', NULL, NULL), -- 115
+            (116, 'aromatherapy for relaxation
+leaves the skin velvety
+perfectly softens', 'At the heart of the formula is magnolia extract, which is effectively used in the care of sensitive skin and reduces puffiness, has a relaxing effect. The luxurious and delicate aroma of magnolia with light citrus notes is created specifically for relaxation. Result: velvety, well-groomed skin.', 'Magnolia extract — obtained from flowers and buds, reduces puffiness and has a relaxing effect. It is effectively used in the care of sensitive skin.
+Glycerin — forms a moist film on the surface of the epidermis. Restores elasticity, softness and smoothness to the skin.', 'Water, ethylhexyl palmitate, fragrance, cetearet-3, glyceryl stearate, cetearyl alcohol, glycerin, phenixiethanol, cetyl alcohol, dimethicone, cetearet-20, benzyl alcohol, carbomer, ethylhexylglycerin, triethanolamine, sodium lauryl sulfate, geraniol, butylphenyl methylpropional, disodium EDTA, citronellol, citral, isoevgenol, butylene glycol, extract of buds/flowers of magnolia biondi.
+Does not contain: parabens, petroleum products, silicones, denatured alcohol, formaldehyde-containing substances, PEG.', 'Apply to the skin after a shower, or at any time, as often as necessary. Rub with gentle massage movements.', NULL, NULL), -- 116
+            (117, 'gives firmness and elasticity
+reduces inflammation
+evens out tone
+moisturizes
+protects against oxidative stress
+inhibits premature aging', 'Youth activator, responsible for intensive nutrition and hydration, improves skin turgor, inhibits inflammatory reactions, relieves redness. The fluid serum is easy to apply, instantly absorbed, leaving a feeling of freshness. Suitable for all skin types, for daily use in the morning and evening. It contains 95% natural ingredients.
+It does not contain parabens, silicones, mineral oils, ethyl alcohol.', 'NUTriVITA complex is based on chestnut peel concentrate (Castanea Sativa). It is rich in polyphenols. Antioxidant, strengthens blood vessels, reduces inflammation, suppresses the production of collagenase (an enzyme that destroys collagen), improves skin density, stimulates blood circulation.
+Ahnfeltiopsis Concinna red algae gel — works as a "second skin": forms a protective film on the surface that protects against moisture loss. Softens.
+Rice bran oil — oleic and linoleic acids in the composition of the oil soften and moisturize the skin. Palmitic acid and vitamin E prevent aging. And gamma-oryzanol protects the skin from free radicals.
+Shea butter (karite) is obtained from the seeds of the African plant Vitellaria paradoxa. An antioxidant. Softens, moisturizes and nourishes the skin.
+Natural softening complex is an innovative herbal alternative to silicones. It has a high penetrating ability, gives silky skin, moisturizes. It is this complex that makes the serum formula effective, increasing the penetration of other active components.
+Blend of polyglycerides (oleic, linoleic and linolenic acids) from plant sources — approved by Ecocert. Provides a lifting effect. It is able to absorb water up to 200% of its own weight, thanks to which it actively moisturizes the skin and fills in wrinkles.', 'Water, cetearyl alcohol, glycerin, polyacrylate crosspolymer-6, cetearet-20, hexylene glycol, hydroxyacetophenone, caryl glycol, shea butter, caprylic/caprine/amber triglyceride, dicaprilyl carbonate, oleic/linoleic/linolenic polyglycerides, fragrance, brown algae extract / Ahnfeltiopsis conccina, rice bran oil / Oryza sativa, disodium EDTA, phenoxyethanol, sodium hydroxide, chlorphenesine, propylene glycol, sodium dehydroacetate, chestnut seed extract (Castanea sativa), tocopherol.', 'Apply a few drops of serum with gentle movements to the clean skin of the face and neck. Use before moisturizer.
+Try a beauty ritual before going to bed:
+	apply a drop of the product on the pad of each finger of one hand;
+	connect the fingers of both hands;
+	massage the serum over the face and neck. Start from the center and move to the edges.', NULL, NULL), -- 117
+            (118, 'cleanses
+removes makeup residues
+moisturizes
+narrows pores
+softens
+provides a biological balance of the skin', 'Micellar gel for washing works like a magnet, pulling out and washing away makeup residues, excess sebum and other impurities. Gently cleanses the skin, leaving a pleasant feeling of softness and hydration. Enriched with extracts of magnolia and peony.
+Does not contain: SLES, SLS, parabens, formaldehyde-containing substances, ethyl alcohol, silicones, mineral oils.
+Certificates: ISO, GMP, ECO. 89% natural ingredients.', 'Complex "Blooming skin", which includes 3 components:
+1. Peony extract — has a soothing effect, antioxidant, narrows pores, suitable for sensitive skin. Moon flower or divine flower — this is how ancient myths describe its origin. Peony, a rose without thorns, is considered one of the most effective floral components in skin care. It is said that women who use it become radiant, like this wonderful flower.
+2. Magnolia extract — skin protection, anti-inflammatory property, prevention of stress from UV radiation, suitable for sensitive skin. The age of the oldest magnolia fossils found is 100 million years old. This flower is a symbol of perfection, purity and beauty.
+3. "Healthy skin" is a cocktail of components that are useful for the skin.
+Natural prebiotic from chicory root — restores the balance and barrier properties of the skin microbiota by stimulating microorganisms living on the surface of the skin.
+Betaine is a natural osmolite from sugar beet. Protects cells from environmental stress and from dehydration. Moisturizes and protects the skin.
+Diglycerin is a natural moisturizer. It retains water well, therefore it helps to reduce transepidermal moisture loss (TEWL).
+Vitamin PP (B3) — has a calming effect, moisturizes, brightens.
+Chinese camellia leaf extract is a powerful antioxidant.
+Xylitol — moisturizes.
+A blend of extra-soft surfactants', 'water, glycerin, diglycerin, acrylates / palmet-25 acrylate copolymer, sodium lauroyl glutamate, polysorbate 20, cocamidopropylbetaine, caprylyl glycol, xylitol, fragrance, sodium hydroxide, ethylhexylglycerin, propylene glycol, capril hydroxamic acid, niacinamide (vitamin B3), betaine, hydroxypropyl guar, inulin, alpha-glucan oligosaccharide, butylene glycol, extract of magnolia flowers and buds (Magnolia biondii), peony flower extract (Paeonia officinalis), potassium sorbate, sodium benzoate, Chinese camellia leaf extract (Camellia sinensis).', 'Take a little of the product in the palm of your hand and massage it into the skin of your face, mixing it with warm water. Rinse your face well and blot it with a towel.', NULL, NULL), -- 118
+            (119, 'cleanses the skin and hair
+moisturizes
+cares
+conditions', 'It is important for every mother to choose the perfect remedy that gently and safely cleanses children''s skin. The gel is specially designed for gentle cleansing of the baby''s skin and hair. Does not cause irritation. The delicate formula contains soft surfactants and natural ingredients that are suitable even for sensitive baby skin. Based on chamomile and calendula flower water.
+Does not contain: parabens, ethyl alcohol and ethanol, gluten, petrochemicals, mineral oils, silicones, lanolin, phthalates, irritating emulsifiers, synthetic flavors, ethoxylated ingredients, methylisothiazolinone, EDTA, dyes, urea, DEA, TEA or PEG, sulfates.
+Certificates: ISO, GMP, ECO. 98% natural ingredients.', 'Calendula water is an extract of calendula flowers and has a calming effect. Calendula contains alpha and beta caratinoids, which gives the effect of healthy skin.
+Chamomile water has a calming and relaxing effect.
+Apricot seed oil is an antioxidant, deep nutrition of the skin.
+Cherry seed oil is rich in vitamin A, with a high content of antioxidants and oleic acid, the oil has a strong softening effect on the skin.
+The phyto milk complex is responsible for skin renewal, protects against overdrying, maintains the lipid balance of the skin, moisturizes.', 'water, sodium lyroyl glutamate, glycerin, disodium cocoamphodiacetate, decylglucoside, roman chamomile flower water/anthemis nobilis, calendula officinalis flower water/calendula officinalis, citric acid, cocamidopropylbetaine, cocoylmethylglucamide, sodium chloride, xanthan gum, sorbitan caprylate, propanediol, propylene glycol, sodium benzoate, sesame seed oil/Sesamum Indicum, benzoin acid, phytic acid, fragrance, apricot seed oil/Prunus armeniaca, sucrose stearate, cherry seed oil/Prunus avium, sorbic acid, black cumin seed oil/Nigella sativa, aloe Barbadensis leaf juice powder, glyceryl caprylate, potassium sorbate, tocopherol, P-anisic acid, sunflower seed oil/Helianthus annuus', 'Gently apply to the skin and hair, lightly lather, rinse thoroughly with clean water. For external use only.', NULL, NULL), -- 119
+            (120, 'nourishes
+accelerates regeneration
+moisturizes
+smoothes
+especially suitable for dry skin', 'The high penetration of nutrients into your skin literally stops time! The cream is saturated with powerful, exclusive anti-aging components. Penetrates deeply into the skin, nourishes, moisturizes and accelerates regeneration processes.', 'Organic Pomegranate oil is rich in polyphenol, an anti–aging nutrient that fights dryness and restores the skin.
+Gatuline® is an anti–aging component from beech buds, increases skin hydration by 30%, instantly softens.
+Organic royal jelly extract is a powerful anti–aging component that stimulates the production of collagen, soothes the skin, reduces irritation.
+Organic argan oil – restores the skin, nourishes, moisturizes.
+Organic aloe vera gel – enhances the protective functions of the skin, moisturizes.
+Organic shea butter is responsible for skin elasticity, cell renewal and hydrolipidic balance.', 'Water, caprylic/caprine triglyceride, glycerin, Cetearyl alcohol, Shea butter oil or extract (Butyrospermum Parkii), sunflower seed oil (Helianthus annuus), Dicaprilyl ether, Argan seed oil (Argania spinosa), Glyceryl stearate, fragrance, sodium stearoyl glutamate, Cetearyl glucoside, European beech bud extract (Fagus sylvatica), sodium benzoate, glyceryl caprylate, sorbitan caprylate, lauryl lysine, propanediol, xanthan gum, benzoic acid, Aloe Barbadensis leaf juice powder, Benzyl alcohol, citric acid, Royal jelly Extract, sodium hydroxide, pomegranate seed oil (Punica granatum), potassium sorbate, tocopherol, soybean oil, linalool, citronellol.', 'Apply to cleansed facial skin in the morning or afternoon with light patting movements along massage lines.', NULL, NULL), -- 120
+            (121, 'the high content of hyaluronic acid
+fills wrinkles
+whitens
+protects against pigmentation
+makes the skin moisturized
+returns a healthy complexion
+strengthens the skin', 'A few drops of precious serum is all you need to switch to active hydration! Thanks to the hyaluronic acid complex, the product effectively restores balance, fills and revitalizes even the most dehydrated skin. Fights the signs of aging: fills in wrinkles, strengthens the epidermis. The skin instantly becomes moisturized and visually smooth.', 'Hyaluronic acid – intensively moisturizes the skin, protects, softens.
+Epidermosil ® - stimulates its own production of hyaluronic acid, renews the epidermis, participates in the process of moisture production.
+Organic Lime Extract – contains vitamin C, brightens and evens skin tone.
+Sorbitol is a natural sugar that prevents moisture loss.
+Biowhite (Exclusive Complex) is an exclusive complex based on white mulberry, saxifrage and grapes; prevents pigmentation, a rich source of antioxidants.
+AquaxyI TM – prevents dehydration of the skin, regulates the water balance. Promotes the production of hyaluronic acid in the epidermis.
+Complex of vitamins A, E and F – protects cells from aging, nourishes, enhances cell renewal.
+Panthenol (provitamin B5) is a regenerating, moisturizing active ingredient.
+Vitamin C is an antioxidant involved in the production of collagen.', 'Water, Glycerin, Xylityl glucoside, Anhydroxylitol, Phenoxyethanol, Xylitol, Carbomer, Chlorphenesine, Sodium Polyacrylate, Propylene Glycol, Panthenol, Fragrance, Butylene Glycol, Hydrogenated Starch Hydrolysate (Sorbitol), Sodium Hydroxide, Glucose, Grape Extract (Vitis Vinifera), Lime Extract (Citrus Aurantifolia), Acrylates/C10 -30 alkyl acrylate crosspolymer, ascorbyl glucoside, disodium EDTA, isopropyl myristate, sodium sulfite, sodium metabisulfite, soybean oil (Glycine soja), mulberry root extract (Morus alba), Baikal skullcap root extract (Scutellaria baicalensis), silanetriol, Saxifraga sarmentosa extract, sodium hyaluronate, hyaluronic acid, sorbic acid, citric acid, potassium sorbate, sodium benzoate, linolenic acid, safflower dye seed oil (Carthamus tinctorius), tocopheryl acetate, retinyl palmitate, PEG-8, ascorbic acid, ascorbyl palmitate, tocopherol, geraniol, citronellol, limonene, benzyl salicylate, linalool, benzyl benzoate.', 'Apply a few drops of serum with gentle movements to the clean skin of the face and neck.', NULL, NULL), -- 121
 
-            (122, ), -- 122
-            (123, ), -- 123
-            (124, ), -- 124
-            (125, ), -- 125
-            (126, ), -- 126
-            (127, ), -- 127
-            (128, ), -- 128
+            (122, 'Gently and effectively cleanses the skin
+Increases the protective reaction of the skin
+Restores the structure of the skin
+Gives the skin a healthy blooming appearance', 'Gentle exfoliant cream, its active ingredients gently cleanse the skin. Apricot pits are used as an exfoliant (exfoliating agent), they gently remove dirt from the skin surface and exfoliate dead cells clogging the pores. Apricot kernel oil perfectly nourishes the skin.', 'Gentle exfoliant cream, its active ingredients gently cleanse the skin. Apricot pits are used as an exfoliant (exfoliating agent), they gently remove dirt from the skin surface and exfoliate dead cells clogging the pores. Apricot kernel oil perfectly nourishes the skin.
+Ginseng extract and aloe vera leaf juice promote skin regeneration.
+Chamomile extract has a soothing, anti-inflammatory and antiseptic effect.
+The extract of the root of Echinacea purpurea has an analgesic effect, stimulates tissue granulation, increases the activity of phagocytes (increases the protective function of the skin), accelerates the healing process of wounds.
+Green tea extract is a powerful antioxidant.', 'Water, apricot kernel powder, stearic acid, glycerin, cetearyl alcohol, apricot kernel oil, Phenoxyethanol, cellulose gum, fragrance, methylparaben, ethylparaben, butylparaben, isobutylparaben, propylparaben, green tea leaf extract, Chamomile flower extract, Echinacea purpurea root extract, root extract ginseng, aloe barbadian leaf juice.', 'Apply the scrub to slightly damp skin and massage it for a few minutes with gentle circular movements. Wash off the scrub with warm water. A mixture of natural plant extracts has a beneficial effect on the condition of the skin, has a healing effect, making it clean and smooth.
+Precautions: for dry skin, use the scrub no more than once every two to three weeks, for oily skin – once a week. Do not use on the skin of the face in the area around the eyes. It is not recommended to use the scrub for irritated and injured skin.', NULL, NULL), -- 122
+            (123, 'Moisturizes, nourishes and has a conditioning effect on the skin
+Softens and soothes sensitive skin
+Vitamins C and A fight the harmful effects of free radicals
+Protects the skin from the negative effects of the environment and protects against frostbite
+Reduces fine and large wrinkles
+Improves skin color and appearance
+Gently cares for problematic, inflamed skin', 'Tropical Mists body cream is made with cocoa bean oil, contains natural plant extracts and vitamins necessary for the skin.', 'Cocoa butter perfectly softens and moisturizes the skin, and in addition, enhances the effect of other components.
+Aloe vera has a bactericidal, healing and toning effect, is perfect for caring for problematic, dry, sensitive, oily, seborrheic skin of the face and body, is an excellent moisturizer and protects the skin from light exposure.
+Green tea extract has astringent properties, effectively relieves puffiness. Chamomile extract softens skin irritation, has an anti-inflammatory, antiseptic, antispasmodic and regenerating effect.
+Grape seed extract is a hydrophilic antioxidant that acts in an aqueous environment, such as cell nuclei. Its antioxidant properties are 20 times higher than that of vitamin C.
+Ginkgo biloba extract stimulates blood circulation, prevents capillary fragility, and has an anti-inflammatory effect.
+Methylsulfanylmethane is a substance containing sulfur. Non-toxic, does not contain metals. Sulfur, important for cellular respiration, is necessary for the formation of hair, nails, cartilage, has an anti-allergic effect; promotes the removal of lactic acid and toxins from tissues, which allows nutrients to penetrate there; helps the body to renew and restore damaged skin cells and connective tissue, restores their elasticity.
+Vitamin C protects the skin from the harmful effects of free radicals, has antioxidant properties.
+Vitamin A promotes faster renewal of the epidermis, controls pigmentation, normalizes the activity of the sebaceous glands, gives the skin a young and well-groomed appearance.', 'Purified water, glycerin, glyceryl stearate / polyethylene glycol-100 stearate, caprylic/caprine triglyceride, cetearyl alcohol, cocoa seed oil, cetearet-20, cetyl esters, phenoxyethanol, dimethyl sulfone, dimethicone, carbomer, apricot kernel oil, sweet almond oil, methylparaben, fragrance, butylparaben, tetranatrium EDTA, propylparaben, ethylparaben, chamomile flower extract, camellia oil leaf extract, ginkgo biloba leaf extract, Korean ginseng root extract, barbadian aloe leaf juice, grape seed extract, retinyl palmitate (vitamin A), tetrahexyldecyl ascorbate (vitamin C).', 'Tropical Mists Cocoa Butter cream is ideal for dry and sensitive skin, as well as for sunburned or chapped skin. Gently apply a small amount of cream to the skin in a circular motion.', NULL, NULL), -- 123
+            (124, 'It has a softening and relaxing effect on overstressed muscles and joints
+Softens and moisturizes the skin thanks to the action of essential oils
+Helps to improve blood supply and increases tissue regeneration', 'The product works very effectively due to its fast and deep penetration through the skin, and a rich set of excellent vegetable oils makes it an excellent means for massage.', 'Gaulteria leaf oil — thanks to its warming and simultaneously cooling effect, it perfectly relieves muscle, arthric and rheumatic pains, helps with sprains.
+Tea tree oil has gained worldwide recognition due to its healing properties: antiseptic, disinfectant, antibacterial and anti-inflammatory.
+Avocado oil — has antioxidant and regenerating properties. Regulates the metabolism of prostaglandins that control the skin''s immunity, restores the structure of the epidermis, improves the moisture-retaining properties of the skin.
+Sesame oil — has a harmonizing effect on the skin and the body as a whole, restores, moisturizes and nourishes the skin, eliminates peeling and irritation.
+Olive oil — perfectly nourishes and moisturizes the skin.
+Evening primrose oil — has pronounced healing, regenerating and rejuvenating properties.
+Mint oil — has an antiseptic, antispasmodic, stimulating effect.', 'Safflower seed oil, sumac peel wax, beeswax, cyclomethicon, trihydrostearin, hydrogenated castor oil, gaulteria leaf oil, macadamia seed extract, hemp seed oil, mint leaf oil, avocado oil, European olive fruit oil, sesame seed extract, tea tree leaf oil, evening primrose oil, squalane, panthenyl triacetate (vitamin B), tetrahexyldecyl ascorbate (vitamin C), tocopherol (vitamin E), lecithin, isopropyl myristate.', 'It can be used for massage. Relaxes muscles, softens the skin. Apply the balm to the skin with gentle massaging movements.
+Precautions: do not use on the skin of the face. Avoid contact with eyes. After application, wash your hands with soap. If the condition does not improve, or in case of irritation, consult a doctor.', NULL, NULL), -- 124
+            (125, 'Controls sweating, which is the cause of the smell
+Quickly absorbed, leaving no traces on clothes
+It has anti-inflammatory, healing, soothing properties
+Hypoallergenic
+Odorless – suitable for both women and men.', 'A soft, refreshing antiperspirant deodorant is a reliable protection against sweat for a long time.', 'Chamomile flower extract, has anti-inflammatory, healing, anti-allergic and softening effect.
+Rosemary leaf extract has antiseptic, anti-inflammatory, analgesic, tonic effect. Stimulates local blood circulation.
+Chinese camellia leaf extract moisturizes, relieves irritation and soothes the skin.
+The juice of Aloe Barbadensis leaves softens, moisturizes, nourishes, regenerates the skin.
+Also, the composition of the antiperspirant deodorant includes sea salt, which has antiseptic, anti-inflammatory, bactericidal properties.', 'Water, aluminum hydrochloride, sorbitol, stearet-21, ethylhexyl palmitate, isostearyl alcohol, cetyl alcohol, phenoxyethanol, fragrance, methylparaben, ethylparaben, butylparaben, isobutylparaben, propylparaben, sea salt, aloe barbadian leaf juice, chamomile extract, Chinese camellia leaf extract, rosemary leaf extract.', 'Passed dermatological examination and clinical trials. Suitable for use even for very sensitive skin.
+Apply to clean skin of the armpits, after each body wash.', NULL, NULL), -- 125
+            (126, 'Softens, moisturizes and improves the condition of the skin
+Plant extracts protect the skin from the effects of free radicals
+Refreshes and soothes the skin due to the effects of natural ingredients
+Increases the regeneration of skin cells
+Does not contain alcohol
+The unique formula of the product makes it possible to carefully care for problematic, inflamed skin
+Aloe and witch hazel ("witch hazel") have a softening and refreshing effect on irritated skin.', NULL, 'Witch hazel extract has an astringent, tonic effect, causes vasoconstriction, an excellent antiseptic.
+Aloe vera has a bactericidal, healing and toning effect, is perfect for caring for problematic, dry, sensitive, oily, seborrheic skin of the face and body, is an excellent moisturizer and protects the skin from light exposure.
+Green tea extract contains a complex of tannins with the ability to increase the stability of blood vessels, and proanthocyanides, having an antioxidant effect, prevent cell destruction. It has an astringent property, effectively relieves puffiness.
+Chamomile extract contains flavonoids, caratinoids and other substances that soften skin irritation, have anti-inflammatory, antiseptic, antispasmodic and regenerating effects.
+Grape seed extract is a hydrophilic antioxidant that acts in an aqueous environment, such as cell nuclei. Its antioxidant properties are 50 times higher than vitamin E and 20 times higher than vitamin C.
+Ginkgo biloba extract stimulates blood circulation, prevents capillary fragility, and has an anti-inflammatory effect.', 'Purified water, witch hazel extract, butylene glycol, carbomer, phenoxyethanol, chlorophyllin, glycerin, menthol, aloe barbadian leaf juice, methylparaben, benzoic acid, disodium EDTA, chamomile flower extract, ginkgo biloba leaf extract, camellia oil leaf extract, grape seed extract.', 'Apply to clean skin as needed to provide a calming effect. It can be used after shaving, helps to relieve irritation. It has a beneficial effect on sunburned, inflamed or sensitive skin. It is also used in case of itching from insect bites.', NULL, NULL), -- 126
+            (127, 'Softens, moisturizes and improves the condition of the skin
+Plant extracts protect the skin from the effects of free radicals
+Refreshes and soothes irritated skin
+Increases the regeneration of skin cells
+The unique formula of the gel makes it possible to carefully care for the skin', NULL, 'Aloe Barbadian leaf juice has a bactericidal, healing and toning effect and is used for problematic, dry, sensitive, oily, seborrheic skin of the face. It is an excellent moisturizer and protects the skin from light exposure. It contains vitamins C and E — known antioxidants.
+Chamomile flower extract has anti-inflammatory, wound healing and mild analgesic effect.
+Chinese Camellia leaf extract (green tea) is a leader among plant antioxidants. Its unique properties are due to the high concentration of polyphenols, the activity of which is several times higher than the activity of the well-known skin protector from free radicals - vitamin E. Tea polyphenols also have anti-inflammatory and antibacterial effects, promote the penetration of biologically active substances into the skin. The caffeine contained in the extract improves blood microcirculation and skin nutrition, reduces puffiness; tannins give the skin elasticity.
+Rosemary leaf extract has antiseptic, anti-inflammatory, analgesic, tonic effect. Stimulates local blood circulation.', 'Water, ethanol, butylene glycol, glycerin, polyethylene glycol-40, hydrogenated castor oil, Barbadian aloe leaf juice, chamomile flower extract, rosemary leaf extract, Chinese camellia leaf extract, fragrance, carbomer, tetranatrium EDTA, sodium hydroxide.', 'Apply to the skin after each shave.', NULL, NULL), -- 127
+            (128, 'Quickly moisturizes and softens the skin of the legs and feet.
+Promotes rapid healing of cracks on the skin of the feet.
+Relieves the feeling of fatigue and swelling of the legs.
+It has antibacterial and antifungal effects.', NULL, 'The lotion is specially designed for the skin of the feet and legs. It contains powerful moisturizing ingredients: aloe vera, apricot kernel oil and sweet almond oil. Natural essential oils not only give a refreshing aroma, but also work as a complex of antioxidants. Thanks to the rich plant complex, it has a tonic effect on the veins of the legs, antibacterial, antifungal, analgesic, healing local effect.', 'Purified water, glycerin, glyceryl stearate / polyethylene glycol-100 stearate, sunflower seed oil, cetearyl alcohol / cetearet-20, cetearyl alcohol, cetyl esters, a mixture of preservatives 2 (phenoxyethanol, methylparaben, ethylparaben, isobutylparaben, butylparaben, propylparaben), dimethicone, sweet oil almond, apricot kernel oil, fragrance/mixture antioxidants (grapefruit seed extract, lavender oil, peppermint oil, tea tree leaf oil, ylang-ylang flower oil, rosewood oil, menthol), carbomer, tetranatrium EDTC, camellia oil leaf extract, Korean ginseng root extract, chamomile flower extract (Matricaria), ginkgo biloba leaf extract, Echinacea purpurea root extract, retinyl palmitate / cholecalciferol, tetrahexyldecyl ascorbate, allantoin, aloe barbadensis leaf juice, grape seed extract (Vitis vinifera).', 'After taking a bath or shower, apply the lotion to the skin of the feet with gentle circular movements, let it soak in. Special attention should be paid to rough, dry skin on the heels.', NULL, NULL), -- 128
 
-            (129, ), -- 129
-            (130, ), -- 130
-            (131, ), -- 131
-            (132, ), -- 132
-            (133, ), -- 133
-            (134, ), -- 134
-            (135, ), -- 135
+            (129, 'Contains tocopherol acetate (vitamin E), which protects the skin from free radicals. 
+Contains bisabolol, which has an emollient property.
+It does not contain ingredients of animal origin, mineral oil, petroleum jelly, silicone oils.', 'A voluminous saturated shine with a gel texture and shimmering particles. The gel-cream, caring texture of the gloss will never roll down on the lips. Translucent iridescent gloss emphasizes the natural shade of the lips and gives them radiance and incredible volume. The formula is rich in caring ingredients. The basis of the vitamin of youth is vitamin E and bisabolol, known for its rejuvenating and healing properties.
+Effect : soft, radiant, voluminous and very natural lips.', NULL, NULL, 'Apply lip gloss thickly.', NULL, NULL), -- 129
+            (130, 'Contains tocopherol acetate (vitamin E), which protects the skin from free radicals. 
+Contains bisabolol, which has an emollient property.
+It does not contain ingredients of animal origin, mineral oil, petroleum jelly, silicone oils.', 'A voluminous saturated shine with a gel texture and shimmering particles. The gel-cream, caring texture of the gloss will never roll down on the lips. Translucent iridescent gloss emphasizes the natural shade of the lips and gives them radiance and incredible volume. The formula is rich in caring ingredients. The basis of the vitamin of youth is vitamin E and bisabolol, known for its rejuvenating and healing properties.
+Effect : soft, radiant, voluminous and very natural lips.', NULL, NULL, 'Apply lip gloss thickly.', NULL, NULL), -- 130
+            (131, 'Made of California cedar
+Does not contain mineral oils
+A soft shade for natural makeup', 'Our permanent hit is luxury eyebrow pencils. Improved formula: the new powdery luxury texture provides even softer application and perfect shading.
+Soft shades for natural eyebrow makeup. The pencil is made of California cedar, a high-quality wood that allows you to retain the properties of the product and does not absorb moisture.
+The formula is resistant to high temperatures and mechanical influences, does not contain mineral oils. Tested and approved by dermatologists.', NULL, NULL, 'Eyebrows are a very important element in makeup, sometimes incorrectly designed eyebrows can spoil the overall impression. Brow pencils Bremani will help to cope with the situation.
+The right accent on the eyebrows will give women at the age of a younger appearance and emphasize the natural beauty of a young girl.
+Women with fair skin and hair should use a shade darker than the color of the hairs in the eyebrows. Older ladies can have their eyebrows drawn a little brighter, this will help to create a more elegant and light effect.', NULL, NULL), -- 131
+            (132, 'Made of California cedar
+Does not contain mineral oils
+A soft shade for natural makeup', 'Our permanent hit is luxury eyebrow pencils. Improved formula: the new powdery luxury texture provides even softer application and perfect shading.
+Soft shades for natural eyebrow makeup. The pencil is made of California cedar, a high-quality wood that allows you to retain the properties of the product and does not absorb moisture.
+The formula is resistant to high temperatures and mechanical influences, does not contain mineral oils. Tested and approved by dermatologists.', NULL, NULL, 'Eyebrows are a very important element in makeup, sometimes incorrectly designed eyebrows can spoil the overall impression. Brow pencils Bremani will help to cope with the situation.
+The right accent on the eyebrows will give women at the age of a younger appearance and emphasize the natural beauty of a young girl.
+Women with fair skin and hair should use a shade darker than the color of the hairs in the eyebrows. Older ladies can have their eyebrows drawn a little brighter, this will help to create a more elegant and light effect.', NULL, NULL), -- 132
+            (133, 'Contains reflective particles
+Olive oil
+The composition is enriched with vitamin E', 'The most popular shade of powder - "Biscuit" - is now in a new compact package.', NULL, NULL, NULL, NULL, NULL), -- 133
+            (134, 'Pearl Powder
+Olive oil
+The composition is enriched with vitamin E
+Reflective particles', 'A velvety shimmering shade with a satin effect on the skin. Ideal for highlighting cheekbones and giving the skin a glow.
+Our most popular color "Hazelnut" returns in a new compact package.', NULL, NULL, NULL, NULL, NULL), -- 134
+            (135, 'it glides perfectly on the surface of the lips
+the soft creamy texture is easily shaded
+the case is made of California cedar', 'The soft, comfortable texture of the "Bremani" pencils is sure to please you. Pencils glide perfectly on the surface of the lips and are easily shaded.
+The soft creamy texture of the pencil emphasizes the contour of your lips and prevents the spread of lipstick. The formula of this product consists of 90% natural ingredients, caring for your lips. The pencil is made of high-quality California cedar wood, this unique tree allows you to preserve all the unique properties of the product.
+The formula has passed dermatological control and is recommended for use.', NULL, NULL, NULL, NULL, NULL), -- 135
 
-            (136, ), -- 136
-            (137, ), -- 137
-            (138, ), -- 138
-            (139, ), -- 139
-            (140, ), -- 140
-            (141, ), -- 141
-            (142, ), -- 142
-            (143, ), -- 143
-            (144, ), -- 144
-            (145, ), -- 145
-            (146, ), -- 146
-            (147, ), -- 147
-            (148, ), -- 148
-            (149, ), -- 149
-            (150, ), -- 150
-            (151, ), -- 151
-            (152, ), -- 152
-            (153, ), -- 153
-            (154, ), -- 154
-            (155, ), -- 155
-            (156, ), -- 156
-            (157, ), -- 157
-            (158, ), -- 158
-            (159, ), -- 159
-            (160, ), -- 160
-            (161, ), -- 161
-            (162, ), -- 162
-            (163, ), -- 163
-            (164, ), -- 164
-            (165, ), -- 165
-            (166, ), -- 166
-            (167, ), -- 167
-            (168, ), -- 168
-            (169, ), -- 169
-            (170, ), -- 170
-            (171, ), -- 171
-            (172, ), -- 172
-            (173, ), -- 173
-            (174, ), -- 174
-            (175, ), -- 175
+            (136, NULL, 'A convenient format for the presentation of a new product - Vitamin D3 NSP, already so beloved by consumers of the company''s products, for your new partners and customers. In a compact and colorful booklet you will find a lot of useful and most important information about this product.', NULL, NULL, NULL, NULL, NULL), -- 136
+            (137, NULL, NULL, NULL, NULL, NULL, NULL, NULL), -- 137
+            (138, NULL, 'In this edition, our experts have collected and presented information about the unique properties and effectiveness of NSP products. There is also a special group of universal products of Active Longevity, which have antioxidant, detoxifying, oncoprotective, antibacterial and anti-inflammatory effects, regulate the functions of life-supporting systems of the body, stimulate the healing and restoration of various structures of the body, including bones and soft tissues.
+All the material is offered in the format of a working notebook – a short reference book of unique effects of products with working pages for notes and recommendations. For the convenience of working with this publication, we have included a classification of NSP products based on the experience of their use, as well as the direction of action.', NULL, NULL, NULL, NULL, NULL), -- 138
+            (139, NULL, 'Do you want to lead an active and healthy lifestyle? Then this edition is for you. The brochure combines information about programs relevant to people of all ages.', NULL, NULL, NULL, NULL, NULL), -- 139
+            (140, NULL, 'From this book you will learn:
+how to eliminate fat accumulation programs;
+effective methods of restoring health and achieving slimness;
+how to turn on the body''s natural ability to burn fat, become slim and forget about diets and exhausting workouts forever;
+simple and effective psychological techniques;
+a test to identify the strengths and weaknesses of the nervous system;
+and also what your coach won''t tell you.
+About the authors:
+Anna Kotelnikova is a surgeon by education. Andrey Yashkov is an anesthesiologist and resuscitator. Doctors-nutritionists, naturopaths (studied at the Faculty of Advanced training of medical workers of the RUDN). Authors of trainings and seminars on self-healing techniques. Wellness coaches, experts in achieving slimness. They help thousands of people to maintain a healthy and active life.
+"Our body is like a combination lock. Your task is to choose the right numbers, and then you will get health and harmony for many years. In this book we have shared with you our practical experience. We told you what you need to do, why you need to do it, and even how you need to do it. But knowledge does not give results if it is not applied in practice."', NULL, NULL, NULL, NULL, NULL), -- 140
+            (141, NULL, 'Convenient, visual and accessible tools for working with NSP wellness programs. A5 booklets contain detailed information about the products included in the wellness programs. 
+The series came out:
+The health of your joints
+The health of your bones
+Fitness
+Connective Tissue Health
+Stop swelling
+To help those who quit smoking
+The health of your eyes
+Healthy heart
+Antiparasitic program
+Protection of vessels
+Skin, hair, nails
+Clear head
+Stop allergy
+The health of your liver
+Health with NSP all year round
+Antistress
+Strong immunity
+Gastrointestinal health as a basis
+Healthy child
+Musculoskeletal rehabilitation program', NULL, NULL, NULL, NULL, NULL), -- 141
+            (142, NULL, 'Bright and concise A5 advertising booklet "Wow-serum" is a convenient and affordable tool for product promotion.', NULL, NULL, NULL, NULL, NULL), -- 142
+            (143, NULL, 'A concise A6 advertising booklet is a convenient and affordable tool for product promotion.
+In the series came out:
+Indole-3-carbinol
+Paw Paw
+Smart Mil
+Zambrosa
+Noni Juice
+Chlorophyll
+Lymphatic Drainage
+Physical Asset', NULL, NULL, NULL, NULL, NULL), -- 143
+            (144, NULL, 'Collection of recommendations for the prevention of various diseases and health conditions.
+The recommendations are the quintessence of many years of experience in the practical application of dietary supplements of the company NSP Ustinova Natalia Alekseevna, formerly a doctor, and today a naturopath and a leading diagnostician with 17 years of experience, an assistant Director of the company.
+We reserve for the author the right to an individual view and approach to the choice of products, proven by successful results of working with them.', NULL, NULL, NULL, NULL, NULL), -- 144
+            (145, NULL, NULL, NULL, NULL, NULL, NULL, NULL), -- 145
+            (146, NULL, 'The first issue in the framework of the project "Active longevity". The articles of the collection are devoted to the problems of preventive healthcare, the introduction of innovative methods and technologies of early diagnosis and prevention, restorative medicine and medical rehabilitation, ecology, preventive and curative nutrition based on ecological products and non-medicinal preparations from natural raw materials, the introduction of complementary medicine methodologies into domestic healthcare practice and other issues related to the health and longevity of the nation. NP "Health" is a partner of the first edition, which we are pleased to present to your attention. One of the articles in the collection is devoted to NSP products and kits.', NULL, NULL, NULL, NULL, NULL), -- 146
+            (147, NULL, 'A convenient, visual and accessible tool for work. It will help you navigate the company''s product range.', NULL, NULL, NULL, NULL, NULL), -- 147
+            (148, NULL, 'Professional athlete and partner of NSP Pavel Lipnitsky presents to your attention this guide to action for amateur and professional athletes. The brochure summarizes the experience of using our dietary supplements in nutrition support programs and athletes'' health correction.', NULL, NULL, NULL, NULL, NULL), -- 148
+            (149, NULL, 'We bring to your attention a reissue of the hit, which contains simple and proven health recipes for every day. This collection is based on the experience of long-term use of NSP products by consumers and professional physicians. The presented Supercomplexes include the most proven products, thanks to which our company has earned the trust of its consumers. Let this concise edition be your home health recipe book for the whole family. Ask for the brochure at the service centers and the delivery service.', NULL, NULL, NULL, NULL, NULL), -- 149
+            (150, NULL, 'We hasten to please everyone who is familiar with the popular publication-a guide to the products of NSP "Ecology of your body". The edition has been reissued and goes on sale again!
+And if this is the first time you hear about this booklet, we advise you to be the first to purchase it! The circulation is limited.
+The human body is a large ecosystem in which everything is interconnected. This biological mechanism works for a full-fledged human life, and our task is to take care of it.
+We have created this booklet to introduce you in an accessible language to the main systems of the human body, as well as to the products of the NSP company that will help support their key functions.', NULL, NULL, NULL, NULL, NULL), -- 150
+            (151, NULL, 'The book describes how, given the season of the year and knowing which organs and systems should be active during this period, it is possible to provide seasonal support to the human body by effectively using the NSP product range.', NULL, NULL, NULL, NULL, NULL), -- 151
+            (152, NULL, 'Cordyceps chinensis, a miracle mushroom that surpasses ginseng in its healing properties, has long been considered the "medicine of the land of immortality" in its homeland, China. For more than 2000 years, only members of the imperial family had the right to take medicines from it. Only recently, thanks to modern biotechnologies, scientists have learned to grow this rare mushroom on an industrial scale. Its products have been clinically tested in major medical institutions in the USA, Canada, and Japan, where its high preventive and general healing effect has been confirmed.
+Today, all the great Chinese athletes, winners of the World Championships and the Olympic Games include cordyceps in their diet. It is also approved by the Institute of Nutrition of the Russian Academy of Medical Sciences – the Russian Academy of Medical Sciences.
+This brochure, addressed to everyone who cares about their health, tells in detail about the purpose and healing properties of the dietary supplement "Cordyceps NSP" ("CordycepsNSP") of the company "Nature''s Sunshine Products".', NULL, NULL, NULL, NULL, NULL), -- 152
+            (153, NULL, 'Contents:
+I. What is MSM
+II. Sources of sulfur
+III. Sulfur-containing compounds
+IV. How sulfur can be useful to a person
+	The use of MSM in various types of arthritis
+	Allergy
+	Asthma
+	Inflammation and pain
+	The use of MSM in oncology
+	The use of MSM in gastroenterology
+	Diabetes
+	Gum disease
+	Hair
+	Skin
+	Snoring
+V. The use of MSM and its dosage
+VI. Literature
+Author:
+Scientific consultant of the NSP company, Senior researcher of the Department of Preventive Medicine, RUDN Novikov A.F.', NULL, NULL, NULL, NULL, NULL), -- 153
+            (154, NULL, 'Compilers:
+Department of Urology and Andrology of the Ural State Medical Academy of Additional Education, Andrological Department of the City Hospital No. 5, Chelyabinsk.
+Candidate of Medical Sciences V.F. Bavilsky, Head. department Matygin A.S.
+Department of Preventive Medicine of the FPKMR RUDN
+Druzhinin P.V. - Head of the Department
+Novikov A.F. - Senior researcher of the Department, scientific consultant of the NSP.
+Content: 1.
+Androgen deficiency. 2.
+Erectile dysfunction. 3.
+Male infertility. 4.
+Ways to maintain men''s reproductive health. 5.
+Menopausal disorders in men and their correction. 6.', NULL, NULL, NULL, NULL, NULL), -- 154
+            (155, NULL, 'Compiled by:
+Druzhinin P.V. Head of the Department of Preventive Medicine of the Faculty of Advanced Training of Medical Workers of the RUDN (Moscow)
+Eremenko A.I. Associate Professor of the Department of Maxillofacial Surgery and Dentistry of the State Medical University (St. Petersburg)
+Novikov A.F. Scientific consultant of the Representative Office of the NSP company.
+Content:
+1. Anatomical features of the maxillofacial region
+2.The main surgical dental diseases and principles of drug therapy with the use of dietary supplements of the company NSP
+A) Acute odontogenic inflammatory processes
+B) Dysbiosis of the oral cavity
+C) Non-ontogenic inflammatory diseases of the maxillofacial region
+D) Diseases of the salivary glands
+E) Diseases of the temporomandibular joint
+3. Preparation for planned surgical interventions in the oral cavity
+4. The use of dietary supplements of the company NSP for the prevention of complications of drug therapy of dental diseases', NULL, NULL, NULL, NULL, NULL), -- 155
+            (156, NULL, 'Authors:
+Shaposhnikov V.A. Urologist
+Druzhinin P.V. Head of the Department of Preventive Medicine of the Faculty of Advanced Training of Medical Workers of the RUDN
+Novikov A.F. Senior lecturer of the Department of Preventive Medicine of the Faculty of Advanced Training of Medical Workers of the RUDN. Scientific consultant of the NSP company.
+Content:
+1. Anatomical structure of the prostate gland and its physiological functions
+2. Classification of prostate diseases
+3. Chronic infectious prostatitis
+4. Chronic non-infectious (abacterial) prostatitis
+5. Benign prostatic hyperplasia
+6. Phytotherapy and the use of dietary supplements of the company NSP for the correction of male reproductive health
+Application. Information about the cost of drugs in Moscow', NULL, NULL, NULL, NULL, NULL), -- 156
+            (157, NULL, 'Compiled by: Druzhinin P.V., Head of the Department of Preventive Medicine of the Russian Academy of Medical Sciences
+Novikov A.F., PhD of the Department, scientific consultant of the NSP company
+Lysikov Yu.A., Senior Researcher at the Research Institute of Nutrition of the Russian Academy of Medical Sciences
+Content:
+1. Lipid metabolism disorders. How relevant is this?
+2. Hyperlipoproteinemia
+3. Hypercholesterolemia
+4. Metabolic syndrome
+5. Vascular diseases. Atherosclerosis
+6. Lipid accumulation diseases
+7. Disorders of lipid metabolism in the liver. Fatty liver dystrophy
+8. Disorders of bile acid metabolism. Cholelithiasis
+9. Lipid distress syndrome
+10. Treatment of lipid metabolism disorders. The role of dietary supplements in prevention and treatment', NULL, NULL, NULL, NULL, NULL), -- 157
+            (158, NULL, 'Compiled by: Druzhinin P.V., Head of the Department of Preventive Medicine of the Russian Academy of Medical Sciences
+Novikov A.F., PhD of the Department, scientific consultant of the NSP company
+Lysikov Yu.A., Senior Researcher at the Research Institute of Nutrition of the Russian Academy of Medical Sciences
+Content:
+1. Lipid metabolism disorders. How relevant is this?
+2. Hyperlipoproteinemia
+3. Hypercholesterolemia
+4. Metabolic syndrome
+5. Vascular diseases. Atherosclerosis
+6. Lipid accumulation diseases
+7. Disorders of lipid metabolism in the liver. Fatty liver dystrophy
+8. Disorders of bile acid metabolism. Cholelithiasis
+9. Lipid distress syndrome
+10. Treatment of lipid metabolism disorders. The role of dietary supplements in prevention and treatment', NULL, NULL, NULL, NULL, NULL), -- 158
+            (159, NULL, 'Compiled by: district general practitioner of the 1st category, city polyclinic No. 167 of the Southern Administrative District ofMoscow; employees of the Department of Preventive Medicine of the Russian Academy of Medical Sciences: Head of the Department P.V. Druzhinin, Senior Researcher S. A.F.Novikov
+Contents:
+Section 1. The work of district doctors
+Section 2. Respiratory diseases
+Section 3. Diseases of the cardiovascular system
+Section 4. Diseases of the digestive system
+Section 5. Diseases of the musculoskeletal system
+Section 6. Briefly about the management of cancer patients
+Section 7. Interesting clinical cases', NULL, NULL, NULL, NULL, NULL), -- 159
+            (160, NULL, 'Compiled by: gynecologist-endocrinologist, doctor of the highest category M.M. Alekseeva
+Reviewers: Ph.D. A.F.Novikov, Head of the Department of Preventive Medicine, Food Hygiene and Naturopathy, RUDN Ph.D. P.V.Druzhinin
+Content:
+1. Uterine fibroids
+1.1. General information about etiopathogenesis. Indications for conservative treatment
+1.2. Correction of somatic status. Dietary supplements in the treatment of iron deficiency conditions in fibroids
+1.3. Elimination of risk factors contributing to the development of fibroids (Correction of dietary regime, blood lipid spectrum)
+2. Mastopathy
+2.1. Definition and classification
+2.2. Etiopathogenesis
+2.3. Clinical picture and diagnosis
+2.4. Treatment
+3. Genital endometriosis
+3.1. The main theories of the occurrence of endometriosis
+3.2. Classification of endometriosis. Clinical features
+3.3. Treatment
+3.4. Dietary supplements and the state of pseudomenopause', NULL, NULL, NULL, NULL, NULL), -- 160
+            (161, NULL, 'Compiled by: rheumatologist E.A.Poddubskaya, Ph.D. A.F.Novikov, Head of the Department of Preventive Medicine of the FPC MR RUDN Ph.D. P.V.Druzhinin Contents:
+1. Structure of joints
+2. Definition of the disease
+3. Etiology of osteoarthritis
+4. Pathogenesis (What happens in the joint?)
+5. Risk factors (Who is more likely to get osteoarthritis)
+6. Morphological and anatomical changes in osteoarthritis
+7. Clinical manifestations
+8. Principles of osteoarthritis treatment
+9. The use of dietary supplements for osteoarthritis', NULL, NULL, NULL, NULL, NULL), -- 161
+            (162, NULL, 'The birthplace of the tea tree is Australia. Since time immemorial, the aborigines of Australia have used tea tree leaves as a medicinal remedy. The aborigines ground the leaves and prepared gruel from them, which was used to treat wounds. Crushed leaves were also used to protect against insects. Many secrets of this traditional medicine have been lost, so today we have to re-develop old recipes.
+In our brochure, you will not only learn in detail about this plant, but also about how essential oil is obtained, what quality standards are imposed on it, its composition, action, scope of application and much, much more.', NULL, NULL, NULL, NULL, NULL), -- 162
+            (163, NULL, 'Compiled by: Druzhinin P.V., Head of the Department of Preventive Medicine of the Russian Academy of Medical Sciences
+Novikov A.F., PhD of the Department, scientific consultant of the NSP company
+Lysikov Yu.A., Senior Researcher at the Research Institute of Nutrition of the Russian Academy of Medical Sciences
+Content:
+1. Lipid metabolism disorders. How relevant is this?
+2. Hyperlipoproteinemia
+3. Hypercholesterolemia
+4. Metabolic syndrome
+5. Vascular diseases. Atherosclerosis
+6. Lipid accumulation diseases
+7. Disorders of lipid metabolism in the liver. Fatty liver dystrophy
+8. Disorders of bile acid metabolism. Cholelithiasis
+9. Lipid distress syndrome
+10. Treatment of lipid metabolism disorders. The role of dietary supplements in prevention and treatment', NULL, NULL, NULL, NULL, NULL), -- 163
+            (164, NULL, 'Compiled by: Druzhinin P.V., Head of the Department of Preventive Medicine of the Russian Academy of Medical Sciences
+Novikov A.F., PhD of the Department, scientific consultant of the NSP company
+Lysikov Yu.A., Senior Researcher at the Research Institute of Nutrition of the Russian Academy of Medical Sciences
+Content:
+1.Fat, oil, lipids… What are lipids? Classification of lipids
+2.The main functions of lipids in the human body
+3. Fatty acids and triglycerides
+(a)Fatty acids
+(b)Essential fatty acids
+(c)Trans fatty acids
+(d)Volatile fatty acids
+(e)Medium- and long-chain fatty acids
+(f)Triglycerides
+4.Waxes
+5.Phospholipids, glycolipids (sphingolipids) and steroids (steroids)
+(a)Phospholipids or glycerophospholipids
+(b)Glycolipids or sphingolipids
+((c)Steroids and Steroids
+(d)Cholesterol
+(e)Bile acids
+(f)Bile
+6.Isoprenoids and fat-soluble vitamins
+7.Lipoproteins
+8. Dietary fats. So what are we eating?
+9.Dietary supplements of the company NSP and lipid metabolism', NULL, NULL, NULL, NULL, NULL), -- 164
+            (165, NULL, 'Compiled by: Druzhinin P.V., Head of the Department of Preventive Medicine of the Russian Academy of Medical Sciences
+Novikov A.F., PhD of the Department, scientific consultant of the NSP company
+Lysikov Yu.A., Senior Researcher at the Research Institute of Nutrition of the Russian Academy of Medical Sciences
+Content:
+1. The history of the use of enzyme preparations
+2. What are enzymes? The role of enzymes in the body
+3. Modern classification and characteristics of digestive enzymes
+4.Digestive container of the gastrointestinal tract
+5. Enzyme therapy of digestive function insufficiency
+6. Endogenous digestion. Justification of systemic enzyme therapy
+7. Orientation and mechanism of action of systemic enzymes
+8. Enzyme preparations of NSP company', NULL, NULL, NULL, NULL, NULL), -- 165
+            (166, NULL, 'Compiled by: Druzhinin P.V., Head of the Department of Preventive Medicine of the Russian Academy of Medical Sciences
+Novikov A.F., PhD of the Department, scientific consultant of the NSP company
+Lysikov Yu.A., Senior Researcher at the Research Institute of Nutrition of the Russian Academy of Medical Sciences
+Content:
+1.What is dietary fiber? Concept and definition
+2.The main types of dietary fiber. Their structure and properties
+3. Modern classification of dietary fiber
+4. Physico-chemical properties of dietary fibers
+(a)Solubility in water
+(b)Hydrophilicity and water retention capacity
+(c)Sorption capacity
+(d)Digestibility of dietary fiber by bacterial enzymes
+(e)Dietary fiber as a source of nutrients
+5. Physiological effect of dietary fiber on the human body
+(a)Effect on the structure and function of the stomach
+(b)Influence on the structure and function of the small intestine
+(c)Influence on the structure and function of the colon
+(d)Effect on intestinal motility and food transit
+(e)Effect on intestinal microbiocenosis
+(f)Influence on the processes of digestion and absorption
+(g)Influence on metabolism and the work of organs and systems of the body
+(h)Dietary fiber in the prevention and treatment of diseases of the digestive system
+(i)Dietary fiber in the prevention and treatment of diseases of internal organs
+6. Consumption of dietary fiber. Basic standards
+7.The content of dietary fiber in food
+8. Dietary fiber in the composition of food additives
+9. Dietary fiber and entersorption
+(a)Entero-endogenous recycling of substances
+(b)Toxic danger to the human body
+(c)Basic principles and methods of detoxification of the body
+10. The program of prevention and treatment of intoxication using dietary supplements NSP
+11.Dietary fiber in NSP products', NULL, NULL, NULL, NULL, NULL), -- 166
+            (167, NULL, 'Your health depends on the pH balance.
+Can you imagine that the development of many diseases depends on one cause? Many nutritionists and phytotherapists now designate this hidden danger with two words: acid and alkali.
+High acidity destroys the most important systems in the body and it becomes defenseless against diseases. A balanced pH environment ensures the normal course of metabolic processes in the body, helping it to fight diseases. A healthy body has a supply of alkaline substances, which it uses if necessary.
+You will learn more about the pH value and methods of influencing it from the brochure.', NULL, NULL, NULL, NULL, NULL), -- 167
+            (168, NULL, 'This brochure describes in detail the principles of using dietary supplements in the prevention and treatment of diseases. And also the results of clinical studies are given:
+The results of the study of the drug "Digestive enzymes" in chronic gastritis. (Moscow, MGMSU, Department of Clinical Pharmacology, 2009)
+The use of drugs "Complex with Garcinia" and "Chromium Chelate" in the treatment of diabetes mellitus. (Moscow, MGMSU, Department of Clinical Pharmacology, 2008)
+The results of the use of the drugs "Osteo Plus" and "Wild Yams NSP" in the treatment of osteoporosis. (Moscow, MGMSU, Department of Clinical Pharmacology, 2008)
+The results of the use of the drugs "Calcium Magnesium Chelate" and "Bon-Si" in the treatment of osteoporosis. (Moscow, MGMSU, Department of Clinical Pharmacology, 2008)
+The use of the drug "Carbo Grabbers" in the treatment of obesity on the background of diabetes mellitus. (Moscow, MGMSU, Department of Clinical Pharmacology, 2009)', NULL, NULL, NULL, NULL, NULL), -- 168
+            (169, NULL, 'This brochure contains the results of clinical trials of some drugs, for example:
+1. Clinical study of the drug "Fat Grabbers". (Sunshine Scandinavia AS Company, Tiunsberg, Norway (Tensberg, Norway), 1999)
+2. Clinical efficacy of dietary supplement therapy using "Loclo", "Burdock" and "Echinacea" in patients with chronic pancreatitis. (Moscow, MGMSU, Department of Clinical Pharmacology, 2005)
+3. To study the clinical effectiveness of the treatment of patients with gastropathy caused by taking NSAIDs with the help of dietary supplements "Stomak Comfort". (Moscow, MGMSU, Department of Clinical Pharmacology, 2005)
+4. Clinical approbation of dietary supplements "According to D''Arco". (Kazakh Academy of Nutrition, 2003)
+5. Clinical testing of dietary supplements "Glucosamine". (Kazakh Academy of Nutrition, 2003)
+6. Clinical studies of the complex preparation "Protease Plus" and "Lozenges with zinc". (Moscow City Center for Sex Pathology, 2004)
+7. Study of the use of dietary supplements with antioxidant activity in coronary heart disease. (I.M. Sechenov MMA, Moscow)
+8. Clinical studies of the herbal preparation "Liv Gard". (MO, Zhukovsky, TSGB, 2004)
+As well as additional information from the American scientific department of the company:
+1. The ability to capture free radicals by the active ingredients that are part of the fruits of Morinda Citrifolia L. (Noni). (Faculty of Medical Chemistry and Pharmacology, College of Pharmacy, University of Illinois, Chicago, USA, 2004)
+2. Noni juice of the NSP company surpasses in activity in immune stimulation the products of the company "Morinda" - Noni Tahitian juice (Morinda Tahitian). (David S. Pasco, Professor, Coordinator of Biological Research of Phytopreparations, University of Mississippi, USA)
+3. Vitamins "E" and "C" are confirmed as safe when prescribed in high doses. (The American Journal of the Clinical Nutrition, 2005)
+4. "Coral calcium" produced by NSP. (NSP Scientific Consultant Jeff Tuttle)', NULL, NULL, NULL, NULL, NULL), -- 169
+            (170, NULL, 'This edition has been in existence for many years, is regularly reprinted and improved. This book is an indispensable source of information for those who want to know how our products work, what they consist of, how to use them. The latest edition was updated with a description of last year''s novelty: toothpaste with xylitol and soda, we also updated information on Colloidal minerals, which are now offered on Acai berry juice. One of the latest improvements is a convenient Application in which you can now see which of our products contain certain medicinal plants, vitamins, trace elements, biologically active substances, as well as their quantity, which also simplifies the choice of products. In addition, the cover design has become more modern and is made in the corporate style of the NSP company.', NULL, NULL, NULL, NULL, NULL), -- 170
+            (171, NULL, '1. The use of dietary supplements from NSP in urology for the treatment of prostatitis.
+Author: Mudrik I.V., urologist, Kiev, Ukraine.
+2. Clinical application of the drug "So-Palmetto" by NSP.
+Author: Shaposhnikov V.A., urologist, St. Petersburg.
+3. "Gingko Biloba" and "Coenzyme Q10 plus" of the new generation, created on the basis of new technologies.
+Author: Fedorov S.N., KMN, Ukrainian Academy of Postgraduate Education, Kiev.
+4. Clinical and pathogenetic characteristics of non-rheumatic myocarditis. Dietary supplements in the treatment of myocarditis.
+Author: Matskevich S.A., BelMAPO, MOKB, Belarus.
+5. Rheumatism. The role of NSP phytopreparations in prevention and treatment.
+Author: Shchigoleva L.N., rheumatologist, Minsk, Belarus.
+6. Correction of thyroid diseases with phytopreparations of the company NSP.
+Author: Korzyk N.P., surgeon of the highest category, KMN, Kiev.
+7. Experience in the use of NSP drugs for gastric ulcer, duodenal ulcer and other diseases of the gastrointestinal tract.
+Authors: Wojciechowski V.G., CMN, Department of Microbiology, National Medical University, Denisenko Y.M., endoscopist, Consultative and Diagnostic Center, Kiev.
+8. The use of nutraceuticals, parapharmaceuticals and probiotics in dermatology. Pathogenetic mechanisms of action of dietary supplements in skin diseases.
+Author: V.V. Antilevsky, CMN, dermatologist, Minsk.
+9. Experience of using the drug "Po D''Arco" by NSP for the treatment of patients with fungal lesions of the skin and nails.
+Author: S.G. Belyaev, dermatovenerologist of the 1st category, Central City Hospital, Dubna.
+10. Cosmetics that hide nothing (or how to prolong youth).
+Authors: Novikov A.F., Mayorova A.V., Nikitina N.A., Department of Aesthetic Medicine and Department of Preventive Medicine of the Russian Academy of Medical Sciences.
+11. Prevention of complications of substance abuse with dietary supplements.
+Authors: Druzhinin P.V., Novikov A.F., Department of Preventive Medicine of the Russian Academy of Medical Sciences.
+12. Money and neuroses. Application of dietary supplements of the company NSP.
+Author: Kozodaeva L.A., nutritionist, Moscow.
+13. The use of dietary supplements by NSP in the treatment of adaptation disorders and in neurological practice.
+Author: Razumova O.M., psychiatrist of the Moscow State Medical Institute, Minsk.
+14. Chronic renal failure and the use of dietary supplements.
+Author: Degtyar I.A., nephrologist, Minsk.
+15. Application of the NSP "Jurai" phytocomplex in nephrological practice.
+Author: T.P. Badalyan, nephrologist, Novosibirsk.', NULL, NULL, NULL, NULL, NULL), -- 171
+            (172, NULL, '1. Review based on the materials of the VI International Symposium "Biologically active food additives and problems of optimizing nutrition of the population".
+2. On improving the system of professional training of distributors and medical workers on the use of Biologically Active Food Additives and their role in healthy nutrition.
+Authors: Druzhinin P.V., Novikov A.F., Orlova G.G., Department of Preventive Medicine of the Russian Academy of Medical Sciences, Moscow.
+3. Nature + Experience + Science = Biologically Active additives from NSP.
+Author: NazarenkoG.B., cmn, ophthalmologist.
+4. Experience in the use of dietary supplements of the company NSP in pregnant women.
+Author: Lyashenko A.P., therapist of the 1st category, 3rd women''s consultation, Minsk, Belarus.
+5. The use of dietary supplements from NSP in the treatment of habitual miscarriages.
+Author: Gorgoshidze B.V., KMN, Research Institute of Human Reproduction, Tbilisi, Georgia.
+6. The use of the NSP Echinacea dietary supplement as a plant immunostimulator in women with a history of miscarriage and the presence of interferon deficiency.
+Author: Pluzhnikova T.A., KMN, Center for the Prevention and Treatment of Miscarriage, St. Petersburg.
+7. Study of immunotropic and antioxidant properties of Bee pollen dietary supplements in refugee volunteers.
+Author: Korsantia B.M., DMN, Institute of Medical Biotechnology of the Academy of Sciences of Georgia, Dzidziguri N.G., 9th District Polyclinic, Tbilisi.
+8. "The Forgotten disease".
+Author: Gasparyan M.A., phthisiopediatrician, Balashikha, Moscow region.
+9. Prevention and treatment of colds.
+Author: Novikov A.F., STNS of the Department of Preventive Medicine of the Russian Academy of Medical Sciences, scientific consultant of the NSP company.
+10. Results of clinical use of probiotic drugs "Bifidophyllus Flora Force" in the correction of intestinal dysbiosis.
+Author: Zhernakova N.B., pediatrician, Medical Rehabilitation Center, St. Petersburg.
+11. Mucosal dysbiosis syndrome and the possibility of its correction with Biologically active Additives of the company NSP.
+Author: Khoroshilova N.V., KMN, immunologist, Moscow.
+12. Chronic tonsillitis and its complications.
+Author: E.A. Chudinova, otolaryngologist, Moscow.
+13. The use of NSP products in the treatment of patients with purulent-septic pathology.
+Author: Korzyk N.P., CMN, surgeon of the highest category, Kiev.
+14. Women''s chronic inflammatory diseases.
+Author: Alekseeva M.M., gynecologist-endocrinologist, doctor of the highest category, polyclinic of the Ministry of Health of the Russian Federation, Moscow.
+15. The use of dietary supplements and phytopreparations in breast diseases.
+Author: Novikov A.F., STNS of the Department of Preventive Medicine of the Russian Academy of Medical Sciences, scientific consultant of the NSP company.
+16. Biologically active additives of NSP company in the complex therapy of menopausal syndrome.
+Author: Alekseeva M.M., gynecologist-endocrinologist, doctor of the highest category, polyclinic of the Ministry of Health of the Russian Federation, Moscow.
+17. The use of "Lecithin" by NSP for the treatment and prevention of atherosclerosis of cerebral vessels.
+Author: Reshetnyak S.P., neuropathologist of the 1st category, Lugansk.', NULL, NULL, NULL, NULL, NULL), -- 172
+            (173, NULL, 'The handbook contains a detailed description of medicinal herbs used in NSP products, including morphology, chemical composition, pharmacological action and application.
+The reference book is illustrated with wonderful photographs and drawings from English botanical reference books.', NULL, NULL, NULL, NULL, NULL), -- 173
+            (174, NULL, 'Authors:
+Lysikov Yu.A. Candidate of Medical Sciences - Scientific consultant of the Representative Office of NSP in Moscow.
+Novikov A.F. - Scientific consultant of the Representative Office of the NSP company in Moscow, Senior researcher of the Department of Preventive Medicine of the RUDN.
+Shaposhnikov V.A. is a urologist of the highest category, a member of the St. Petersburg Society of Urologists.', NULL, NULL, NULL, NULL, NULL), -- 174
+            (175, NULL, NULL, NULL, NULL, NULL, NULL, NULL), -- 175
             
-            (176, ), -- 176
-            (177, ); -- 177
+            (176, NULL, 'A series of T-shirts with original prints in corporate style. High-quality cotton, classic cut.
+The future starts today (sizes S, M, L, XL, XXL)
+Cat wants Omega (sizes S, M, L, XL, XXL)
+I drank Chlorophyll. Came, saw, won (sizes M, L, XL, XXL)
+My grandmother eats supplements (sizes S, M, L, XL, XXL)
+Bremani is on me (sizes S, M, L, XL)
+Composition: 100% cotton.', NULL, NULL, NULL, NULL, NULL), -- 176
+            (177, NULL, 'The compact and lightweight pillbox is designed for packaging and storing tablets and capsules.
+It consists of two compartments with cells (four and three, respectively) and one large compartment. The pillbox is convenient to use at home and on the road: with its help, you can easily control the daily intake of dietary supplements.
+Made of durable plastic.', NULL, NULL, NULL, NULL, NULL); -- 177
 
 SELECT *
   FROM product_info;
