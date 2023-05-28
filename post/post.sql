@@ -7,11 +7,18 @@ CREATE TABLE post
   content TEXT NOT NULL,
   author_id INTEGER NOT NULL,
   language_id INTEGER NOT NULL,
+  visited_total INTEGER NOT NULL DEFAULT 0,
+  rating_5 REAL NOT NULL DEFAULT 0.0,
+  votes_number_5 INTEGER NOT NULL DEFAULT 0,
   create_ts TIMESTAMP NOT NULL DEFAULT NOW(),
   edit_ts TIMESTAMP NOT NULL DEFAULT NOW(),
   
 	CONSTRAINT pk_post_post_id PRIMARY KEY (post_id),
   CONSTRAINT unq_post_customer_id UNIQUE (title),
+  CONSTRAINT chk_post_visited_total CHECK (visited_total >= 0),
+  CONSTRAINT chk_post_rating_5 CHECK (rating_5 BETWEEN 0 AND 5),
+  CONSTRAINT chk_post_votes_number_5 CHECK (votes_number_5 >= 0),
+  CONSTRAINT chk_post_rating_5_votes_number_5 CHECK (rating_5 0 OR votes_number_5 > 0),
   CONSTRAINT fk_post_language_id_language_language_id FOREIGN KEY (language_id) REFERENCES language(language_id),
   CONSTRAINT fk_post_author_id_employee_employee_id FOREIGN KEY (author_id) REFERENCES employee(employee_id)
 );
