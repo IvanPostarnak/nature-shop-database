@@ -1,19 +1,19 @@
 I decided to write down some rules about present databsae
 ----
 GENERAL RULES are
-+ names of tables must remain singular (country - NEVER countries) EXCEPT such cases as contacts, params, statistics, preferences etc
-+ _id primary keys fields must repeat name of table in whole (table_name -> table_name_id)
-+ if entity / table had a 'name' property than column must be named 'name' without repeating name of the table itself (name - NOT product_name)
-+ all data in cells that represents strings are written capitalized ('Plaster', not 'plaster')
++ names of tables must remain singular (country - NEVER countries) EXCEPT such cases as 'contacts', 'params', 'statistics', 'preferences' etc
++ _id primary keys fields must repeat name of the table in whole (table_name -> table_name_id)
++ if entity or table has a 'name' property then column must be named 'name' without repeating name of the table itself (it should be 'name' - NOT 'product_name')
++ all data in the cells that represents strings should be written capitalized ('Plaster', not 'plaster')
 + all prices are meant to be written in dollars US
-+ in _contacts table all columns DO NOT repeat contact word, so that contact_name, contact_phone and contact_email must be just name, phone and email
-+ contact information must NOT have 'NOT NULL' constraint and must have 'UNIQUE' constraint
-+ all foreign keys that describe entities (such as shop_id, customer_id etc) must have constraint 'UNIQUE'
++ in '_contacts' tables all columns SHOULD NOT repeat 'contact' word, so that 'contact_name', 'contact_phone' and 'contact_email' must be just 'name', 'phone' and 'email'
++ contact information must not have 'NOT NULL' constraint and must have 'UNIQUE' constraint
++ all foreign keys that describe entities (such as 'shop_id', 'customer_id' etc) must have constraint 'UNIQUE'
 ----
-! I know, that following rules are breaking conventions of abstraction and encapsulation, but I'll need it to come back after a while (anyway it'll need refactoring)
+! I know, that rules following below are breaking conventions of abstraction and encapsulation, but I'll need it to come back after a while (anyway it'll need refactoring)
 ----
 UNITS of MESUREMENT (column naming)    
-(decided to use them in names of columns, according to possible need of it in future)
+(I decided to use them in columns' names, according to possible need of it in future)
 ```
 _mil ~ millions
 _cm ~ centimeters
