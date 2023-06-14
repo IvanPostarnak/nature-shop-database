@@ -1,7 +1,8 @@
 DROP VIEW customer_prefs;
 
 CREATE VIEW customer_prefs AS
-  SELECT customer_id,
+  SELECT customer_preferences_id,
+         customer_id,
          (
           SELECT ROW_TO_JSON(row)
             FROM (
@@ -25,7 +26,7 @@ CREATE VIEW customer_prefs AS
                 FROM currency
                WHERE customer_preferences.currency_id = currency.currency_id
             ) AS row
-         ) AS currency,
+         ) AS currency
     FROM customer_preferences;
 
 
