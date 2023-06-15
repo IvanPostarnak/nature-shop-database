@@ -1,6 +1,6 @@
-DROP MATERIALIZED VIEW customer_everything;
+DROP MATERIALIZED VIEW customer_full;
 
-CREATE MATERIALIZED VIEW customer_everything AS
+CREATE MATERIALIZED VIEW customer_full AS
      SELECT customer_id,
             first_name,
             last_name,
@@ -99,4 +99,4 @@ CREATE MATERIALIZED VIEW customer_everything AS
             
        FROM customer;
 
-SELECT * FROM customer_everything;
+SELECT * FROM customer_full;

@@ -1,6 +1,6 @@
-DROP MATERIALIZED VIEW product_everything;
+DROP MATERIALIZED VIEW product_full_web;
 
-CREATE MATERIALIZED VIEW product_everything AS
+CREATE MATERIALIZED VIEW product_full_web AS
      SELECT product_id,
             outer_id,
             name,
@@ -102,7 +102,16 @@ CREATE MATERIALIZED VIEW product_everything AS
                     FROM product_info
                    WHERE product_id = product.product_id
                 ) AS info_table
-            ) AS info
+            ) AS info,
+            (
+              SELECT ROW_TO_JSON(shop_table)
+                FROM (
+                  SELECT shop_id,
+                         units_in_stock
+                    FROM shop_product
+                   WHERE shop_product.product_id = product.product_id AND shop_product.shop_id = 1
+                ) AS shop_table
+            ) AS shop
        FROM product;
 
-SELECT * FROM product_everything;
+SELECT * FROM product_full_web;
