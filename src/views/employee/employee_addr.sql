@@ -1,6 +1,6 @@
-DROP MATERIALIZED VIEW employee_addr;
+DROP VIEW employee_addr;
 
-CREATE MATERIALIZED VIEW employee_addr AS
+CREATE VIEW employee_addr AS
      SELECT employee.employee_id,
             (
               SELECT ROW_TO_JSON(row)
