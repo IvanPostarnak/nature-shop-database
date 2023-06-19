@@ -15,7 +15,16 @@ CREATE TABLE privacy_policy
   afterword TEXT,
   create_ts TIMESTAMP NOT NULL DEFAULT NOW(),
   
-	CONSTRAINT pk_privacy_policy_privacy_policy_id PRIMARY KEY (privacy_policy_id)
+	CONSTRAINT pk_privacy_policy_privacy_policy_id PRIMARY KEY (privacy_policy_id),
+	CONSTRAINT chk_privacy_policy_introduction CHECK (introduction != ''),
+	CONSTRAINT chk_privacy_policy_personal_info_collection CHECK (personal_info_collection != ''),
+	CONSTRAINT chk_privacy_policy_personal_info_use CHECK (personal_info_use != ''),
+	CONSTRAINT chk_privacy_policy_personal_info_disclosure CHECK (personal_info_disclosure != ''),
+	CONSTRAINT chk_privacy_policy_security_measures CHECK (security_measures != ''),
+	CONSTRAINT chk_privacy_policy_cookies CHECK (cookies != ''),
+	CONSTRAINT chk_privacy_policy_children_privacy CHECK (children_privacy != ''),
+	CONSTRAINT chk_privacy_policy_changes_policy CHECK (changes_policy != ''),
+	CONSTRAINT chk_privacy_policy_contact_email CHECK (contact_email != '')
 );
 
 INSERT INTO privacy_policy(introduction, personal_info_collection, personal_info_use, personal_info_disclosure, security_measures, cookies, children_privacy, changes_policy, contact_email, afterword)
